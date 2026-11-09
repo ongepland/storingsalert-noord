@@ -5,15 +5,15 @@
       "eerst_gezien": "2026-11-09T17:04:40.926735+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-09T18:00:00+0100",
-        "fase": "Gevolgen bekend",
+        "einde": "2026-11-09T19:15:00+0100",
+        "fase": "Vervangend vervoer",
         "omschrijving": "",
         "situatie": "Door een seinstoring: tussen Leer en Bad Nieuweschans rijden er geen treinen.",
         "titel": "Groningen - Leer.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 18:00 uur."
+        "vervangend_vervoer": "er rijden stopbussen",
+        "verwachting": "Dit duurt tot ongeveer 19:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-09T17:04:40.926735+01:00",
+      "laatst_gewijzigd": "2026-11-09T17:32:07.445963+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }

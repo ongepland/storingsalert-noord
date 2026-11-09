@@ -1,2 +1,3 @@
 tijdstip;gebeurtenis;id;type;titel;reden;situatie;verwachting;vervangend_vervoer;advies;fase;eerst_gezien;duur_minuten
 2026-11-09T17:04:40+01:00;NIEUW;6069017;DISRUPTION;Groningen - Leer.;label Arriva;Door een seinstoring: tussen Leer en Bad Nieuweschans rijden er geen treinen.;Dit duurt tot ongeveer 18:00 uur.;;;Gevolgen bekend;2026-11-09T17:04:40.926735+01:00;
+2026-11-09T17:32:07+01:00;UPDATE;6069017;DISRUPTION;Groningen - Leer.;label Arriva;Door een seinstoring: tussen Leer en Bad Nieuweschans rijden er geen treinen.;Dit duurt tot ongeveer 19:15 uur.;er rijden stopbussen;;Vervangend vervoer;2026-11-09T17:04:40.926735+01:00;
