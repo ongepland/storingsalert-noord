@@ -33,7 +33,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-VERSIE = "2026-11-09 v3"
+VERSIE = "2026-11-09 v4"
 API_URL = os.environ.get("NS_API_URL", "https://gateway.apiportal.ns.nl/disruptions/v3?isActive=true")
 TYPES = {"DISRUPTION", "CALAMITY"}
 TZ = ZoneInfo("Europe/Amsterdam")
@@ -83,7 +83,8 @@ def tijd(iso):
 
 
 def laad_stations():
-    stations, sectie = set(), None
+    """Leest regels 'CODE  Naam' onder [stations]. Geeft (codes, namen) terug, genormaliseerd."""
+    codes, namen, sectie = set(), set(), None
     for regel in STATIONS_FILE.read_text(encoding="utf-8").splitlines():
         r = regel.split("#", 1)[0].strip()
         if not r:
@@ -91,12 +92,15 @@ def laad_stations():
         if r.lower() == "[stations]":
             sectie = "stations"
             continue
-        if r.lower().startswith("["):
+        if r.startswith("["):
             sectie = "anders"  # bijv. [knooppunten]: alleen ter documentatie
             continue
         if sectie == "stations":
-            stations.add(norm(r))
-    return stations
+            delen = r.split(None, 1)
+            codes.add(norm(delen[0]))
+            if len(delen) > 1:
+                namen.add(norm(delen[1]))
+    return codes, namen
 
 
 def zoek(obj, sleutel):
@@ -111,13 +115,23 @@ def zoek(obj, sleutel):
             yield from zoek(item, sleutel)
 
 
-def stationsnamen(melding):
-    namen = set()
+def stations_van(melding):
+    """Alle stations in de melding als lijst van (code, naam)."""
+    gevonden = {}
     for st in zoek(melding.get("publicationSections", []), "stations"):
-        for s in zoek(st, "name"):
-            if isinstance(s, str):
-                namen.add(s)
-    return namen
+        lijst = st if isinstance(st, list) else [st]
+        stapel = list(lijst)
+        while stapel:
+            item = stapel.pop()
+            if isinstance(item, list):
+                stapel.extend(item)
+            elif isinstance(item, dict) and item.get("name"):
+                gevonden[item.get("name")] = item.get("stationCode", "")
+    return [(c, n) for n, c in gevonden.items()]
+
+
+def stationsnamen(melding):
+    return {n for _, n in stations_van(melding)}
 
 
 def vervoerders(melding):
@@ -134,7 +148,9 @@ def is_arriva_noord(melding, stations):
     ops = vervoerders(melding)
     if any("arriva" in o.lower() for o in ops):
         return True, "label Arriva"
-    geraakt = sorted(n for n in stationsnamen(melding) if norm(n) in stations)
+    codes, namen = stations
+    geraakt = sorted(n for c, n in stations_van(melding)
+                     if norm(c) in codes or norm(n) in namen)
     if geraakt:
         return True, "station(s): " + ", ".join(geraakt)
     return False, ""
