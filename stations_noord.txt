@@ -1,0 +1,80 @@
+# Stationslijst Storingsalert trein - Regio Noord
+# --------------------------------------------------------------
+# Een melding telt als "Arriva Noord" als:
+#   - InfoPlus de vervoerder "Arriva" noemt, OF
+#   - een van de stations hieronder in de melding staat.
+# Hoofdletters en accenten maken niet uit (Feanwâlden = Feanwalden).
+# Alles na een # wordt genegeerd. Eén station per regel.
+#
+# STATUS: CONCEPT - door Bianca te valideren (volledigheid en schrijfwijze).
+
+[stations]
+
+# Leeuwarden - Groningen
+Leeuwarden Camminghaburen
+Hurdegaryp
+Feanwâlden
+De Westereen
+Buitenpost
+Grijpskerk
+Zuidhorn
+
+# Groningen - Roodeschool / Eemshaven
+Groningen Noord
+Sauwerd
+Winsum
+Baflo
+Warffum
+Usquert
+Uithuizen
+Uithuizermeeden
+Roodeschool
+Eemshaven
+
+# Groningen - Delfzijl
+Bedum
+Stedum
+Loppersum
+Appingedam
+Delfzijl West
+Delfzijl
+
+# Groningen - Veendam
+Kropswolde
+Martenshoek
+Hoogezand-Sappemeer
+Sappemeer Oost
+Zuidbroek
+Veendam
+
+# Groningen - Nieuweschans - Leer
+Scheemda
+Winschoten
+Bad Nieuweschans
+Weener
+Leer (Ostfriesl)
+
+# Leeuwarden - Harlingen Haven
+Dronryp
+Franeker
+Harlingen
+Harlingen Haven
+
+# Leeuwarden - Stavoren
+Mantgum
+Sneek Noord
+Sneek
+IJlst
+Workum
+Hindeloopen
+Koudum-Molkwerum
+Stavoren
+
+[knooppunten]
+# Gedeeld met NS. Staan hier alleen ter documentatie en tellen NIET mee,
+# anders krijg je ook alerts bij storingen op NS-trajecten zoals Zwolle - Groningen.
+# Een storing hier wordt alleen gemeld als InfoPlus "Arriva" noemt
+# of als er ook een Arriva-station hierboven in de melding staat.
+Groningen
+Groningen Europapark
+Leeuwarden
