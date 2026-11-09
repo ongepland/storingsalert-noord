@@ -1,0 +1,47 @@
+name: Storingsalert trein Noord
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # elke 5 minuten (GitHub kan bij drukte wat later starten)
+  workflow_dispatch:         # handmatig starten via tabblad Actions
+    inputs:
+      testmodus:
+        description: "Testbericht naar Teams sturen?"
+        type: choice
+        options: ["nee", "ja"]
+        default: "nee"
+
+permissions:
+  contents: write            # nodig om data/state.json en data/log.csv op te slaan
+
+concurrency:
+  group: storingsalert
+  cancel-in-progress: false
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Code ophalen
+        uses: actions/checkout@v4
+
+      - name: Verstoringen controleren
+        env:
+          NS_API_KEY: ${{ secrets.NS_API_KEY }}
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          TEST_MODE: ${{ github.event.inputs.testmodus == 'ja' && '1' || '0' }}
+        run: python3 storingsalert.py
+
+      - name: Status en logboek opslaan
+        if: github.event.inputs.testmodus != 'ja'
+        run: |
+          git config user.name "storingsalert-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen"
+          else
+            git commit -m "Status bijgewerkt"
+            git push
+          fi
