@@ -22,6 +22,7 @@ Optioneel:
 """
 
 import csv
+import gzip
 import json
 import os
 import sys
@@ -32,7 +33,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-API_URL = "https://gateway.apiportal.ns.nl/disruptions/v3?isActive=true"
+API_URL = os.environ.get("NS_API_URL", "https://gateway.apiportal.ns.nl/disruptions/v3?isActive=true")
 TYPES = {"DISRUPTION", "CALAMITY"}
 TZ = ZoneInfo("Europe/Amsterdam")
 AFMELD_NA_KEER = 2  # pas afmelden als een melding 2 controles op rij weg is
@@ -199,9 +200,13 @@ def haal_op():
         "Ocp-Apim-Subscription-Key": key,
         "Cache-Control": "no-cache",
         "Accept": "application/json",
+        "Accept-Encoding": "gzip",
     })
     with urllib.request.urlopen(req, timeout=30) as r:
-        data = json.loads(r.read().decode("utf-8"))
+        ruw = r.read()
+    if ruw[:2] == b"\x1f\x8b":  # gecomprimeerd antwoord (gzip) uitpakken
+        ruw = gzip.decompress(ruw)
+    data = json.loads(ruw.decode("utf-8"))
     if not isinstance(data, list):
         raise RuntimeError("Onverwacht antwoord van de NS-API (geen lijst)")
     return data
