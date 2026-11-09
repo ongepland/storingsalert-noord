@@ -33,6 +33,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+VERSIE = "2026-11-09 v3"
 API_URL = os.environ.get("NS_API_URL", "https://gateway.apiportal.ns.nl/disruptions/v3?isActive=true")
 TYPES = {"DISRUPTION", "CALAMITY"}
 TZ = ZoneInfo("Europe/Amsterdam")
@@ -204,7 +205,7 @@ def haal_op():
     })
     with urllib.request.urlopen(req, timeout=30) as r:
         ruw = r.read()
-    if ruw[:2] == b"\x1f\x8b":  # gecomprimeerd antwoord (gzip) uitpakken
+    while ruw[:2] == b"\x1f\x8b":  # gecomprimeerd antwoord (gzip) uitpakken, ook dubbel
         ruw = gzip.decompress(ruw)
     data = json.loads(ruw.decode("utf-8"))
     if not isinstance(data, list):
@@ -251,7 +252,7 @@ def kaart(b):
         body.append({"type": "TextBlock", "text": regel, "wrap": True, "spacing": "Small"})
     if b["feiten"]:
         body.append({"type": "FactSet", "facts": [{"title": k, "value": v} for k, v in b["feiten"]]})
-    body.append({"type": "TextBlock", "text": "Storingsalert trein Noord · bron: InfoPlus via NS API",
+    body.append({"type": "TextBlock", "text": f"Storingsalert trein Noord · versie {VERSIE} · bron: InfoPlus via NS API",
                  "isSubtle": True, "size": "Small", "wrap": True})
     return {"type": "message", "attachments": [{
         "contentType": "application/vnd.microsoft.card.adaptive",
