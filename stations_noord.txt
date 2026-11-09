@@ -2,79 +2,79 @@
 # --------------------------------------------------------------
 # Een melding telt als "Arriva Noord" als:
 #   - InfoPlus de vervoerder "Arriva" noemt, OF
-#   - een van de stations hieronder in de melding staat.
-# Hoofdletters en accenten maken niet uit (Feanwâlden = Feanwalden).
-# Alles na een # wordt genegeerd. Eén station per regel.
+#   - een station hieronder in de melding staat (op code, of op naam als reserve).
+# Formaat: CODE  Naam   (één station per regel; hoofdletters maken niet uit)
+# Alles na een # wordt genegeerd.
 #
-# STATUS: CONCEPT - door Bianca te valideren (volledigheid en schrijfwijze).
+# STATUS: gevalideerd door Bianca (09-11-2026), Groningen + Friesland.
 
 [stations]
 
-# Leeuwarden - Groningen
-Leeuwarden Camminghaburen
-Hurdegaryp
-Feanwâlden
-De Westereen
-Buitenpost
-Grijpskerk
-Zuidhorn
-
 # Groningen - Roodeschool / Eemshaven
-Groningen Noord
-Sauwerd
-Winsum
-Baflo
-Warffum
-Usquert
-Uithuizen
-Uithuizermeeden
-Roodeschool
-Eemshaven
+GnN   Groningen Noord
+Swd   Sauwerd
+Wsm   Winsum
+Bf    Baflo
+Wfm   Warffum
+Ust   Usquert
+Uhz   Uithuizen
+Uhm   Uithuizermeeden
+Rd    Roodeschool
+Eem   Eemshaven
 
-# Groningen - Delfzijl
-Bedum
-Stedum
-Loppersum
-Appingedam
-Delfzijl West
-Delfzijl
+# Groningen - Delfzijl (Groningen Noord en Sauwerd: zie hierboven)
+Bdm   Bedum
+Stm   Stedum
+Lp    Loppersum
+Apg   Appingedam
+Dzw   Delfzijl West
+Dz    Delfzijl
 
-# Groningen - Veendam
-Kropswolde
-Martenshoek
-Hoogezand-Sappemeer
-Sappemeer Oost
-Zuidbroek
-Veendam
+# Groningen - Leer en Groningen - Veendam
+Kw    Kropswolde
+Mth   Martenshoek
+Hgz   Hoogezand-Sappemeer
+Spm   Sappemeer Oost
+Zb    Zuidbroek
+Sda   Scheemda
+Ws    Winschoten
+Nsch  Bad Nieuweschans
+Wr    Weener
+Leer  Leer (Ostfriesl)
+Vdm   Veendam
 
-# Groningen - Nieuweschans - Leer
-Scheemda
-Winschoten
-Bad Nieuweschans
-Weener
-Leer (Ostfriesl)
-
-# Leeuwarden - Harlingen Haven
-Dronryp
-Franeker
-Harlingen
-Harlingen Haven
+# Groningen - Leeuwarden
+Zh    Zuidhorn
+Gk    Grijpskerk
+Bp    Buitenpost
+Zww   De Westereen
+Vwd   Feanwâlden
+Hdg   Hurdegaryp
+Lwc   Leeuwarden Camminghaburen
+Adh   Leeuwarden Achter de Hoven
 
 # Leeuwarden - Stavoren
-Mantgum
-Sneek Noord
-Sneek
-IJlst
-Workum
-Hindeloopen
-Koudum-Molkwerum
-Stavoren
+Mg    Mantgum
+Sknd  Sneek Noord
+Sk    Sneek
+Ijt   IJlst
+Wk    Workum
+Hnp   Hindeloopen
+Kmw   Koudum-Molkwerum
+Stv   Stavoren
+
+# Leeuwarden - Harlingen Haven
+Dei   Deinum
+Drp   Dronrijp
+Fn    Franeker
+Hlg   Harlingen
+Hlgh  Harlingen Haven
 
 [knooppunten]
 # Gedeeld met NS. Staan hier alleen ter documentatie en tellen NIET mee,
 # anders krijg je ook alerts bij storingen op NS-trajecten zoals Zwolle - Groningen.
 # Een storing hier wordt alleen gemeld als InfoPlus "Arriva" noemt
 # of als er ook een Arriva-station hierboven in de melding staat.
-Groningen
-Groningen Europapark
-Leeuwarden
+Gn    Groningen
+Gerp  Groningen Europapark
+Lw    Leeuwarden
