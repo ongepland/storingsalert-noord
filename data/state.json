@@ -1,7 +1,7 @@
 {
   "actief": {
     "6069055": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-10T18:15:33.585319+01:00",
       "inhoud": {
         "advies": "",
@@ -14,6 +14,23 @@
         "verwachting": "Dit duurt tot ongeveer 19:00 uur."
       },
       "laatst_gewijzigd": "2026-11-10T18:15:33.585319+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
+    "6069056": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-10T19:02:20.791223+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-10T19:45:00+0100",
+        "fase": "Impact bekend",
+        "omschrijving": "",
+        "situatie": "Door inzet van hulpdiensten: tussen Dalfsen en Ommen rijden er geen treinen.",
+        "titel": "Zwolle - Emmen.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 19:45 uur."
+      },
+      "laatst_gewijzigd": "2026-11-10T19:02:20.791223+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
