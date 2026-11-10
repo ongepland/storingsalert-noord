@@ -1,5 +1,23 @@
 {
-  "actief": {},
+  "actief": {
+    "6069055": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-10T18:15:33.585319+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-10T19:00:00+0100",
+        "fase": "Impact bekend",
+        "omschrijving": "",
+        "situatie": "Door een defecte trein: tussen Usquert en Roodeschool rijden er geen treinen.",
+        "titel": "Groningen - Eemshaven.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 19:00 uur."
+      },
+      "laatst_gewijzigd": "2026-11-10T18:15:33.585319+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    }
+  },
   "fout": false,
   "maand": "2026-11"
 }
