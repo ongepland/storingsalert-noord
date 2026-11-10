@@ -1,23 +1,5 @@
 {
-  "actief": {
-    "6069056": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-10T19:02:20.791223+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-10T20:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Dalfsen en Ommen zijn de beperkingen voorbij.",
-        "titel": "Zwolle - Emmen.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 20:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-10T19:53:49.527049+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    }
-  },
+  "actief": {},
   "fout": false,
   "maand": "2026-11"
 }
