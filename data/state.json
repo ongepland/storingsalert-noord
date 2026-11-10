@@ -1,36 +1,19 @@
 {
   "actief": {
-    "6069055": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-10T18:15:33.585319+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-10T19:00:00+0100",
-        "fase": "Impact bekend",
-        "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Usquert en Roodeschool rijden er geen treinen.",
-        "titel": "Groningen - Eemshaven.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 19:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-10T18:15:33.585319+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069056": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-10T19:02:20.791223+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-10T19:45:00+0100",
-        "fase": "Impact bekend",
+        "einde": "2026-11-10T20:00:00+0100",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door inzet van hulpdiensten: tussen Dalfsen en Ommen rijden er geen treinen.",
+        "situatie": "Tussen Dalfsen en Ommen zijn de beperkingen voorbij.",
         "titel": "Zwolle - Emmen.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 19:45 uur."
+        "verwachting": "De treinen rijden weer normaal rond 20:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-10T19:02:20.791223+01:00",
+      "laatst_gewijzigd": "2026-11-10T19:53:49.527049+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
