@@ -16,6 +16,23 @@
       "laatst_gewijzigd": "2026-11-11T13:10:10.283742+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069073": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-11T15:20:18.374776+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-11T17:30:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een overwegstoring: tussen Hengelo en Oldenzaal is er een verstoring in de treindienst.",
+        "titel": "Hengelo - Oldenzaal.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 17:30 uur."
+      },
+      "laatst_gewijzigd": "2026-11-11T15:20:18.374776+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
