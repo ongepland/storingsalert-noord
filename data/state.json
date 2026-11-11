@@ -16,23 +16,6 @@
       "laatst_gewijzigd": "2026-11-11T13:10:10.283742+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "6069073": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-11T15:20:18.374776+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-11T16:30:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Hengelo en Oldenzaal zijn de beperkingen voorbij.",
-        "titel": "Hengelo - Bielefeld.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 16:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-11T16:30:30.274327+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
