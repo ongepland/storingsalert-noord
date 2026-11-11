@@ -25,12 +25,12 @@
         "einde": "2026-11-11T17:30:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een overwegstoring: tussen Hengelo en Oldenzaal is er een verstoring in de treindienst.",
-        "titel": "Hengelo - Oldenzaal.",
+        "situatie": "Door een overwegstoring: tussen Hengelo en Oldenzaal rijden er geen treinen.",
+        "titel": "Hengelo - Bielefeld.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 17:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-11T15:20:18.374776+01:00",
+      "laatst_gewijzigd": "2026-11-11T15:25:14.088954+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
