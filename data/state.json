@@ -33,23 +33,6 @@
       "laatst_gewijzigd": "2026-11-12T23:00:39.018991+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "6069081": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-12T06:35:12.723160+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-12T23:59:00+0100",
-        "fase": "Vervangend vervoer",
-        "omschrijving": "",
-        "situatie": "Door beperkingen in de materieelinzet: tussen Heerlen en Maastricht rijden er minder Sneltreinen.",
-        "titel": "Heerlen - Maastricht.",
-        "vervangend_vervoer": "er rijden ook snelbussen",
-        "verwachting": "Dit duurt tot ongeveer 23:59 uur."
-      },
-      "laatst_gewijzigd": "2026-11-12T10:35:14.208113+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
