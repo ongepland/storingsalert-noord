@@ -35,7 +35,7 @@
       "type": "DISRUPTION"
     },
     "6069080": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-12T05:25:12.500415+01:00",
       "inhoud": {
         "advies": "",
@@ -69,7 +69,7 @@
       "type": "DISRUPTION"
     },
     "6069083": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-12T07:10:17.635150+01:00",
       "inhoud": {
         "advies": "",
