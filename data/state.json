@@ -39,15 +39,32 @@
       "eerst_gezien": "2026-11-12T05:25:12.500415+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-12T07:15:00+0100",
+        "einde": "2026-11-12T08:15:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door uitloop van werkzaamheden: tussen Valkenburg en Maastricht is er vertraging en rijden er minder treinen.",
+        "situatie": "Door uitloop van werkzaamheden: tussen Valkenburg en Maastricht rijden er veel minder treinen.",
         "titel": "Heerlen - Maastricht.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 7:15 uur."
+        "verwachting": "Dit duurt tot ongeveer 8:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-12T05:50:16.061582+01:00",
+      "laatst_gewijzigd": "2026-11-12T06:35:12.723160+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
+    "6069081": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-12T06:35:12.723160+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-12T23:59:00+0100",
+        "fase": "Impact bekend",
+        "omschrijving": "",
+        "situatie": "Door beperkingen in de materieelinzet: tussen Heerlen en Maastricht rijden er minder Sneltreinen.",
+        "titel": "Heerlen - Maastricht.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 23:59 uur."
+      },
+      "laatst_gewijzigd": "2026-11-12T06:35:12.723160+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
