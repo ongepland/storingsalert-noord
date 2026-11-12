@@ -34,23 +34,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069080": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-12T05:25:12.500415+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-12T09:30:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Valkenburg en Maastricht zijn de beperkingen voorbij.",
-        "titel": "Heerlen - Maastricht.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 9:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-12T09:20:17.685391+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069081": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-12T06:35:12.723160+01:00",
@@ -65,23 +48,6 @@
         "verwachting": "Dit duurt tot ongeveer 23:59 uur."
       },
       "laatst_gewijzigd": "2026-11-12T06:35:12.723160+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
-    "6069083": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-12T07:10:17.635150+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-12T09:30:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Maastricht en Maastricht Randwyck zijn de beperkingen voorbij.",
-        "titel": "Maastricht - Randwijck.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 9:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-12T09:20:17.685391+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
