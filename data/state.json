@@ -42,12 +42,12 @@
         "einde": "2026-11-12T08:15:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door uitloop van werkzaamheden: tussen Valkenburg en Maastricht rijden er veel minder treinen.",
-        "titel": "Heerlen - Maastricht.",
+        "situatie": "Door uitloop van werkzaamheden: tussen Valkenburg en Maastricht rijden er minder treinen.",
+        "titel": "Heerlen - Maastricht Randwyck.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 8:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-12T06:40:17.604462+01:00",
+      "laatst_gewijzigd": "2026-11-12T06:50:17.020860+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
