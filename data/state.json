@@ -17,23 +17,6 @@
       "reden": "calamiteit (wordt altijd gemeld)",
       "type": "CALAMITY"
     },
-    "6069064": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-11T06:41:12.873919+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-12T20:30:00+0100",
-        "fase": "Impact bekend",
-        "omschrijving": "",
-        "situatie": "Door beperkingen in de materieelinzet: tussen Arnhem Centraal en Doetinchem rijden er minder stoptreinen.",
-        "titel": "Arnhem - Doetinchem.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt ten minste tot donderdag 12 november 20:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-11T13:10:10.283742+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069081": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-12T06:35:12.723160+01:00",
