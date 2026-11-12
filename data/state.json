@@ -1,5 +1,22 @@
 {
   "actief": {
+    "23aab7ae-f94b-496e-b858-f4920c4d4584": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-12T05:05:12.855416+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "",
+        "fase": "",
+        "omschrijving": "Door werkzaamheden van maandag 16 november t/m vrijdag 4 december rijden er tussen Haarlem en Zandvoort aan Zee geen treinen maar bussen.",
+        "situatie": "",
+        "titel": "Werkzaamheden: Haarlem-Zandvoort aan Zee van maandag 16 november t/m vrijdag 4 december",
+        "vervangend_vervoer": "",
+        "verwachting": ""
+      },
+      "laatst_gewijzigd": "2026-11-12T05:05:12.855416+01:00",
+      "reden": "calamiteit (wordt altijd gemeld)",
+      "type": "CALAMITY"
+    },
     "6069064": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-11T06:41:12.873919+01:00",
