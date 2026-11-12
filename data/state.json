@@ -56,15 +56,15 @@
       "eerst_gezien": "2026-11-12T18:10:18.612711+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-12T18:45:00+0100",
+        "einde": "2026-11-12T18:30:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
         "situatie": "Door een defecte trein: tussen Hengelo en Enschede is er een verstoring in de treindienst en tussen Hengelo en Hengelo Oost is er een verstoring in de treindienst.",
         "titel": "Hengelo - Enschede; Hengelo - Oldenzaal.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 18:45 uur."
+        "verwachting": "Dit duurt tot ongeveer 18:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-12T18:10:18.612711+01:00",
+      "laatst_gewijzigd": "2026-11-12T18:20:19.232857+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
