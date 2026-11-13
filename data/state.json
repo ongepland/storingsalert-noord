@@ -33,6 +33,23 @@
       "laatst_gewijzigd": "2026-11-13T06:55:13.890138+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069109": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-13T07:25:13.165269+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-13T19:15:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door beperkingen in de materieelinzet: tussen Zutphen en Oldenzaal rijden er minder stoptreinen.",
+        "titel": "Zutphen - Hengelo.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 19:15 uur."
+      },
+      "laatst_gewijzigd": "2026-11-13T07:25:13.165269+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
