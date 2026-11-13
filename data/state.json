@@ -50,6 +50,23 @@
       "laatst_gewijzigd": "2026-11-13T07:30:30.937157+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069121": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-13T15:00:39.778962+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-13T15:15:00+0100",
+        "fase": "Vervangend vervoer",
+        "omschrijving": "",
+        "situatie": "Door een overwegstoring: tussen Lochem en Goor rijden er geen treinen.",
+        "titel": "Zutphen - Hengelo.",
+        "vervangend_vervoer": "er rijden stopbussen",
+        "verwachting": "Dit duurt tot ongeveer 15:15 uur."
+      },
+      "laatst_gewijzigd": "2026-11-13T15:00:39.778962+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
