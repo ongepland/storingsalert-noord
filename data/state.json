@@ -17,23 +17,6 @@
       "reden": "calamiteit (wordt altijd gemeld)",
       "type": "CALAMITY"
     },
-    "6069064": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-12T23:00:39.018991+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-13T20:30:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Arnhem Centraal en Doetinchem zijn de beperkingen voorbij.",
-        "titel": "Arnhem - Doetinchem.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 20:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-13T20:15:21.590935+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069123": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-13T15:55:15.994216+01:00",
