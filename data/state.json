@@ -34,23 +34,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069109": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-13T07:25:13.165269+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-13T16:15:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Zutphen en Oldenzaal zijn de beperkingen voorbij.",
-        "titel": "Zutphen - Hengelo.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 16:15 uur."
-      },
-      "laatst_gewijzigd": "2026-11-13T16:05:15.205138+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069123": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-13T15:55:15.994216+01:00",
