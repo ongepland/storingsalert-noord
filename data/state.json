@@ -22,20 +22,20 @@
       "eerst_gezien": "2026-11-12T23:00:39.018991+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-13T21:00:00+0100",
+        "einde": "2026-11-13T20:30:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door beperkingen in de materieelinzet: tussen Arnhem Centraal en Doetinchem rijden er minder stoptreinen.",
         "titel": "Arnhem - Doetinchem.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt ten minste tot 21:00 uur."
+        "verwachting": "De treinen rijden weer normaal rond 20:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-13T06:55:13.890138+01:00",
+      "laatst_gewijzigd": "2026-11-13T16:10:19.856476+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
     "6069109": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-13T07:25:13.165269+01:00",
       "inhoud": {
         "advies": "",
@@ -48,23 +48,6 @@
         "verwachting": "De treinen rijden weer normaal rond 16:15 uur."
       },
       "laatst_gewijzigd": "2026-11-13T16:05:15.205138+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
-    "6069122": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-13T15:30:34.217482+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-13T16:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Lochem en Goor zijn de beperkingen voorbij.",
-        "titel": "Zutphen - Hengelo.",
-        "vervangend_vervoer": "er rijden nog stopbussen",
-        "verwachting": "De treinen rijden weer normaal rond 16:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-13T15:50:18.368982+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
