@@ -16,23 +16,6 @@
       "laatst_gewijzigd": "2026-11-12T05:05:12.855416+01:00",
       "reden": "calamiteit (wordt altijd gemeld)",
       "type": "CALAMITY"
-    },
-    "6069123": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-13T15:55:15.994216+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-14T00:45:00+0100",
-        "fase": "Vervangend vervoer",
-        "omschrijving": "",
-        "situatie": "Door een eerdere verstoring: tussen Roermond en Sittard rijden er geen stoptreinen.",
-        "titel": "Roermond - Maastricht - Maastricht Randwyck.",
-        "vervangend_vervoer": "er rijden stopbussen",
-        "verwachting": "De treinen rijden weer normaal rond zaterdag 14 november 0:45 uur."
-      },
-      "laatst_gewijzigd": "2026-11-13T21:00:45.764096+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
