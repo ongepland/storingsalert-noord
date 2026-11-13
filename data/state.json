@@ -39,15 +39,15 @@
       "eerst_gezien": "2026-11-13T07:25:13.165269+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-13T19:15:00+0100",
+        "einde": "2026-11-13T16:30:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door beperkingen in de materieelinzet: tussen Goor en Oldenzaal rijden er minder stoptreinen.",
+        "situatie": "Door beperkingen in de materieelinzet: tussen Zutphen en Oldenzaal rijden er minder stoptreinen.",
         "titel": "Zutphen - Hengelo.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 19:15 uur."
+        "verwachting": "Dit duurt tot ongeveer 16:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-13T15:40:18.630106+01:00",
+      "laatst_gewijzigd": "2026-11-13T16:00:42.830730+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
