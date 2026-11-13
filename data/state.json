@@ -42,18 +42,18 @@
         "einde": "2026-11-13T19:15:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door beperkingen in de materieelinzet: tussen Zutphen en Oldenzaal rijden er minder stoptreinen.",
+        "situatie": "Door beperkingen in de materieelinzet: tussen Goor en Oldenzaal rijden er minder stoptreinen.",
         "titel": "Zutphen - Hengelo.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 19:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-13T07:30:30.937157+01:00",
+      "laatst_gewijzigd": "2026-11-13T15:40:18.630106+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069121": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-13T15:00:39.778962+01:00",
+    "6069122": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-13T15:30:34.217482+01:00",
       "inhoud": {
         "advies": "",
         "einde": "2026-11-13T16:00:00+0100",
@@ -64,24 +64,7 @@
         "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 16:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-13T15:04:56.225860+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
-    "6069122": {
-      "afwezig": 0,
-      "eerst_gezien": "2026-11-13T15:30:34.217482+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-13T17:45:00+0100",
-        "fase": "Vervangend vervoer",
-        "omschrijving": "",
-        "situatie": "Door een overwegstoring: tussen Lochem en Goor rijden er geen treinen.",
-        "titel": "Zutphen - Hengelo.",
-        "vervangend_vervoer": "er rijden stopbussen",
-        "verwachting": "Dit duurt tot ongeveer 17:45 uur."
-      },
-      "laatst_gewijzigd": "2026-11-13T15:35:14.628706+01:00",
+      "laatst_gewijzigd": "2026-11-13T15:40:18.630106+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
