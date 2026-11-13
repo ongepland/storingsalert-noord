@@ -50,6 +50,23 @@
       "laatst_gewijzigd": "2026-11-13T07:30:30.937157+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069112": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-13T09:10:17.800995+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-13T12:15:00+0100",
+        "fase": "Impact bekend",
+        "omschrijving": "",
+        "situatie": "Door ijzelvorming aan de bovenleiding: tussen Maastricht en Heerlen rijden er geen Sneltreinen.",
+        "titel": "Heerlen - Maastricht.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 12:15 uur."
+      },
+      "laatst_gewijzigd": "2026-11-13T09:10:17.800995+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
