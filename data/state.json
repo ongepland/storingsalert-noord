@@ -33,6 +33,23 @@
       "laatst_gewijzigd": "2026-11-12T23:00:39.018991+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069107": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-13T06:40:16.833931+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-13T07:15:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een defecte trein: tussen Heerlen en Valkenburg is er vertraging en rijden er minder treinen.",
+        "titel": "Heerlen - Maastricht.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 7:15 uur."
+      },
+      "laatst_gewijzigd": "2026-11-13T06:40:16.833931+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
