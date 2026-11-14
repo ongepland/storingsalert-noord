@@ -23,14 +23,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-14T16:30:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een seinstoring: tussen Apeldoorn en Zutphen rijden er geen treinen.",
+        "situatie": "Tussen Apeldoorn en Zutphen zijn de beperkingen voorbij.",
         "titel": "Apeldoorn - Zutphen.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 16:30 uur."
+        "verwachting": "De treinen rijden weer normaal rond 16:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-14T15:40:18.146291+01:00",
+      "laatst_gewijzigd": "2026-11-14T16:05:13.405412+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
