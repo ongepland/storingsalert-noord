@@ -16,6 +16,23 @@
       "laatst_gewijzigd": "2026-11-12T05:05:12.855416+01:00",
       "reden": "calamiteit (wordt altijd gemeld)",
       "type": "CALAMITY"
+    },
+    "99c0b707-a289-4b6b-baf0-9d6d1f5d4c3f": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-14T02:25:13.360747+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "",
+        "fase": "",
+        "omschrijving": "Door werkzaamheden van zaterdag 14 t/m zondag 22 november rijden er tussen Goes en Vlissingen geen treinen maar bussen.",
+        "situatie": "",
+        "titel": "Werkzaamheden Goes-Vlissingen van zaterdag 14 t/m zondag 22 november",
+        "vervangend_vervoer": "",
+        "verwachting": ""
+      },
+      "laatst_gewijzigd": "2026-11-14T02:25:13.360747+01:00",
+      "reden": "calamiteit (wordt altijd gemeld)",
+      "type": "CALAMITY"
     }
   },
   "fout": false,
