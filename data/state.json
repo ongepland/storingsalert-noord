@@ -23,14 +23,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-14T09:15:00+0100",
-        "fase": "Gevolgen bekend",
+        "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Valkenburg en Maastricht is er een verstoring in de treindienst.",
+        "situatie": "Door een defecte trein: tussen Valkenburg en Maastricht rijden er veel minder treinen.",
         "titel": "Heerlen - Maastricht.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 9:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-14T08:30:30.976007+01:00",
+      "laatst_gewijzigd": "2026-11-14T08:40:16.349229+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
