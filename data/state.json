@@ -17,6 +17,23 @@
       "reden": "calamiteit (wordt altijd gemeld)",
       "type": "CALAMITY"
     },
+    "6069144": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-14T15:10:17.833341+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-14T17:30:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een seinstoring: tussen Apeldoorn en Zutphen is er een verstoring in de treindienst.",
+        "titel": "Apeldoorn - Zutphen.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 17:30 uur."
+      },
+      "laatst_gewijzigd": "2026-11-14T15:10:17.833341+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "99c0b707-a289-4b6b-baf0-9d6d1f5d4c3f": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-14T02:25:13.360747+01:00",
