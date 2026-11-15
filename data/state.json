@@ -1,23 +1,5 @@
 {
-  "actief": {
-    "6069164": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-15T15:05:13.401519+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-15T17:30:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Venlo en Mönchengladbach zijn de beperkingen voorbij.",
-        "titel": "Venlo - Mönchengladbach - Düsseldorf.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 17:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-15T17:15:18.672092+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    }
-  },
+  "actief": {},
   "fout": false,
   "maand": "2026-11"
 }
