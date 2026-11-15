@@ -1,5 +1,23 @@
 {
-  "actief": {},
+  "actief": {
+    "6069164": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-15T15:05:13.401519+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-15T15:45:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een defecte trein: tussen Venlo en Roermond is er een verstoring in de treindienst en tussen Venlo en Mönchengladbach is er een verstoring in de treindienst.",
+        "titel": "Venlo - Roermond; Venlo - Mönchengladbach - Düsseldorf.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 15:45 uur."
+      },
+      "laatst_gewijzigd": "2026-11-15T15:05:13.401519+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    }
+  },
   "fout": false,
   "maand": "2026-11"
 }
