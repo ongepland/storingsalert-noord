@@ -1,23 +1,5 @@
 {
-  "actief": {
-    "6069153": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-15T07:50:21.096328+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-15T12:45:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Groningen en Leeuwarden zijn de beperkingen voorbij.",
-        "titel": "Groningen Europapark - Leeuwarden.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 12:45 uur."
-      },
-      "laatst_gewijzigd": "2026-11-15T12:25:16.679894+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    }
-  },
+  "actief": {},
   "fout": false,
   "maand": "2026-11"
 }
