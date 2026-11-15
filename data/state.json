@@ -1,23 +1,5 @@
 {
-  "actief": {
-    "6069176": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-15T18:20:23.022413+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-15T21:15:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Landgraaf en Kerkrade Centrum zijn de beperkingen voorbij.",
-        "titel": "Heerlen - Kerkrade.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 21:15 uur."
-      },
-      "laatst_gewijzigd": "2026-11-15T21:10:18.615111+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    }
-  },
+  "actief": {},
   "fout": false,
   "maand": "2026-11"
 }
