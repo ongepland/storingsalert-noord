@@ -6,14 +6,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-15T21:15:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door gladde sporen: tussen Landgraaf en Kerkrade Centrum rijden er geen treinen.",
+        "situatie": "Tussen Landgraaf en Kerkrade Centrum zijn de beperkingen voorbij.",
         "titel": "Heerlen - Kerkrade.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 21:15 uur."
+        "verwachting": "De treinen rijden weer normaal rond 21:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-15T20:50:17.432893+01:00",
+      "laatst_gewijzigd": "2026-11-15T21:10:18.615111+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
