@@ -5,15 +5,15 @@
       "eerst_gezien": "2026-11-15T07:50:21.096328+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-15T10:45:00+0100",
+        "einde": "2026-11-15T11:15:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door een wisselstoring: tussen Groningen en Leeuwarden rijden er geen treinen.",
         "titel": "Groningen Europapark - Leeuwarden.",
         "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 10:45 uur."
+        "verwachting": "Dit duurt tot ongeveer 11:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-15T10:05:17.053386+01:00",
+      "laatst_gewijzigd": "2026-11-15T10:30:29.454324+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
