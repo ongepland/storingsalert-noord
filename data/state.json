@@ -1,5 +1,22 @@
 {
   "actief": {
+    "6069152": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-15T07:30:28.312266+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-15T09:45:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door de weersomstandigheden: tussen Ommen en Mariënberg is er een verstoring in de treindienst.",
+        "titel": "Zwolle - Emmen.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 9:45 uur."
+      },
+      "laatst_gewijzigd": "2026-11-15T07:30:28.312266+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "99c0b707-a289-4b6b-baf0-9d6d1f5d4c3f": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-14T02:25:13.360747+01:00",
