@@ -1,5 +1,23 @@
 {
-  "actief": {},
+  "actief": {
+    "6069176": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-15T18:20:23.022413+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-15T19:45:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door gladde sporen: tussen Landgraaf en Kerkrade Centrum is er vertraging en rijden er minder treinen.",
+        "titel": "Heerlen - Kerkrade.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 19:45 uur."
+      },
+      "laatst_gewijzigd": "2026-11-15T18:20:23.022413+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    }
+  },
   "fout": false,
   "maand": "2026-11"
 }
