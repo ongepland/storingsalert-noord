@@ -8,12 +8,12 @@
         "einde": "2026-11-15T10:00:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een wisselstoring: tussen Groningen en Buitenpost is er een verstoring in de treindienst.",
+        "situatie": "Door een wisselstoring: tussen Groningen en Leeuwarden rijden er minder treinen.",
         "titel": "Groningen Europapark - Leeuwarden.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 10:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-15T07:50:21.096328+01:00",
+      "laatst_gewijzigd": "2026-11-15T08:05:14.332280+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
