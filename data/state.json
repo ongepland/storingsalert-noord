@@ -8,12 +8,12 @@
         "einde": "2026-11-15T16:45:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Venlo en Tegelen rijden er geen treinen en tussen Venlo en Mönchengladbach rijden er geen Sneltreinen.",
-        "titel": "Venlo - Roermond; Venlo - Mönchengladbach - Düsseldorf.",
+        "situatie": "Door een defecte trein: tussen Venlo en Mönchengladbach rijden er geen Sneltreinen.",
+        "titel": "Venlo - Mönchengladbach - Düsseldorf.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 16:45 uur."
       },
-      "laatst_gewijzigd": "2026-11-15T15:35:14.149048+01:00",
+      "laatst_gewijzigd": "2026-11-15T16:00:41.096417+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
