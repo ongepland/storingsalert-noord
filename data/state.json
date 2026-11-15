@@ -6,14 +6,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-15T15:45:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Venlo en Tegelen rijden er minder stoptreinen.",
-        "titel": "Venlo - Roermond.",
+        "situatie": "Door een defecte trein: tussen Venlo en Tegelen rijden er geen treinen en tussen Venlo en Mönchengladbach rijden er geen Sneltreinen.",
+        "titel": "Venlo - Roermond; Venlo - Mönchengladbach - Düsseldorf.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 15:45 uur."
       },
-      "laatst_gewijzigd": "2026-11-15T15:18:56.472960+01:00",
+      "laatst_gewijzigd": "2026-11-15T15:20:17.630189+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
