@@ -25,12 +25,12 @@
         "einde": "2026-11-16T22:00:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een aanrijding: tussen Nijmegen en Boxmeer is er een verstoring in de treindienst.",
+        "situatie": "Door een gestrande trein: tussen Nijmegen en Boxmeer is er een verstoring in de treindienst.",
         "titel": "Nijmegen - Venlo.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 22:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-16T21:05:13.998508+01:00",
+      "laatst_gewijzigd": "2026-11-16T21:10:19.500884+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
