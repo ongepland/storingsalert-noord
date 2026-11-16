@@ -25,12 +25,12 @@
         "einde": "2026-11-16T23:59:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door een aanrijding: tussen Nijmegen en Cuijk rijden er geen treinen.",
+        "situatie": "Door een aanrijding: tussen Nijmegen en Boxmeer rijden er geen treinen.",
         "titel": "Nijmegen - Venlo.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 23:59 uur."
       },
-      "laatst_gewijzigd": "2026-11-16T21:30:33.314181+01:00",
+      "laatst_gewijzigd": "2026-11-16T21:36:18.452408+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
