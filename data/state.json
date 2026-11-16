@@ -22,15 +22,15 @@
       "eerst_gezien": "2026-11-16T21:05:13.998508+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-16T23:59:00+0100",
-        "fase": "Impact bekend",
+        "einde": "2026-11-17T00:30:00+0100",
+        "fase": "Vervangend vervoer",
         "omschrijving": "",
         "situatie": "Door een aanrijding: tussen Nijmegen en Boxmeer rijden er geen treinen.",
         "titel": "Nijmegen - Venlo.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 23:59 uur."
+        "vervangend_vervoer": "er rijden stopbussen",
+        "verwachting": "Dit duurt tot ongeveer dinsdag 17 november 0:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-16T21:36:18.452408+01:00",
+      "laatst_gewijzigd": "2026-11-16T22:15:28.784695+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
