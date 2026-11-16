@@ -23,14 +23,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-16T08:45:00+0100",
-        "fase": "Gevolgen bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Buitenpost en Leeuwarden is er vertraging en rijden er minder treinen.",
+        "situatie": "Tussen Buitenpost en Leeuwarden zijn de beperkingen voorbij.",
         "titel": "Groningen Europapark - Leeuwarden.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 8:45 uur."
+        "verwachting": "De treinen rijden weer normaal rond 8:45 uur."
       },
-      "laatst_gewijzigd": "2026-11-16T08:00:45.106048+01:00",
+      "laatst_gewijzigd": "2026-11-16T08:35:13.318347+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
