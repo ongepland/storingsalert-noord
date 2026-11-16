@@ -23,14 +23,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-16T20:30:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door vandalisme: tussen Nijmegen en Cuijk rijden er geen treinen.",
+        "situatie": "Tussen Nijmegen en Cuijk zijn de beperkingen voorbij.",
         "titel": "Nijmegen - Venlo.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 20:30 uur."
+        "verwachting": "De treinen rijden weer normaal rond 20:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-16T19:40:18.196447+01:00",
+      "laatst_gewijzigd": "2026-11-16T20:25:13.074309+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
