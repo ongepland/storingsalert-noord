@@ -22,15 +22,15 @@
       "eerst_gezien": "2026-11-16T11:25:13.869565+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-16T16:30:00+0100",
-        "fase": "Vervangend vervoer",
+        "einde": "2026-11-16T14:00:00+0100",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een defect spoor: tussen Aalten en Winterswijk rijden er geen treinen.",
+        "situatie": "Tussen Aalten en Winterswijk zijn de beperkingen voorbij.",
         "titel": "Arnhem - Winterswijk.",
-        "vervangend_vervoer": "er rijden snelbussen",
-        "verwachting": "Dit duurt tot ongeveer 16:30 uur."
+        "vervangend_vervoer": "er rijden nog snelbussen",
+        "verwachting": "De treinen rijden weer normaal rond 14:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-16T12:25:14.271172+01:00",
+      "laatst_gewijzigd": "2026-11-16T13:45:20.338067+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
