@@ -16,6 +16,23 @@
       "laatst_gewijzigd": "2026-11-16T16:15:22.665475+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069217": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-16T19:05:13.967768+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-16T21:30:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door vandalisme: tussen Nijmegen en Boxmeer is er een verstoring in de treindienst.",
+        "titel": "Nijmegen - Venlo.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 21:30 uur."
+      },
+      "laatst_gewijzigd": "2026-11-16T19:05:13.967768+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
