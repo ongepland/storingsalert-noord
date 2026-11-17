@@ -33,6 +33,23 @@
       "laatst_gewijzigd": "2026-11-17T03:30:31.679373+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069234": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-17T14:05:19.919841+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-17T15:30:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een boom op het spoor: tussen Landgraaf en Herzogenrath rijden er geen treinen.",
+        "titel": "Heerlen - Aachen Hbf.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 15:30 uur."
+      },
+      "laatst_gewijzigd": "2026-11-17T14:05:19.919841+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
