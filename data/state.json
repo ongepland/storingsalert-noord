@@ -34,23 +34,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069234": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-17T14:05:19.919841+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-17T17:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Landgraaf en Herzogenrath zijn de beperkingen voorbij.",
-        "titel": "Heerlen - Aachen Hbf.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 17:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-17T16:50:20.416840+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069238": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-17T15:25:13.700859+01:00",
