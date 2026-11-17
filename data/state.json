@@ -18,7 +18,7 @@
       "type": "DISRUPTION"
     },
     "6069238": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-17T15:25:13.700859+01:00",
       "inhoud": {
         "advies": "",
