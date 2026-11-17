@@ -23,14 +23,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-17T23:15:00+0100",
-        "fase": "Vervangend vervoer",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een boom op het spoor: tussen Arnhem Centraal en Zevenaar rijden er geen treinen.",
+        "situatie": "Tussen Arnhem Centraal en Zevenaar zijn de beperkingen voorbij.",
         "titel": "Arnhem - Winterswijk; Arnhem - Duisburg - Düsseldorf.",
-        "vervangend_vervoer": "er rijden stopbussen",
-        "verwachting": "Dit duurt tot ongeveer 23:15 uur."
+        "vervangend_vervoer": "er rijden nog stopbussen",
+        "verwachting": "De treinen rijden weer normaal rond 23:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-17T22:25:13.079644+01:00",
+      "laatst_gewijzigd": "2026-11-17T23:05:14.803822+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
