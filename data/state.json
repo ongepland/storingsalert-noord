@@ -50,23 +50,6 @@
       "laatst_gewijzigd": "2026-11-17T14:15:21.346696+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "6069236": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-17T14:15:21.346696+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-17T14:45:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Mariënberg en Coevorden zijn de beperkingen voorbij.",
-        "titel": "Zwolle - Emmen.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 14:45 uur."
-      },
-      "laatst_gewijzigd": "2026-11-17T14:35:18.393857+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
