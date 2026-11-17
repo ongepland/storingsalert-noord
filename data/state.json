@@ -56,15 +56,15 @@
       "eerst_gezien": "2026-11-17T15:25:13.700859+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-17T16:30:00+0100",
+        "einde": "2026-11-17T17:45:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door een boom op het spoor: tussen Arnhem Centraal en Zevenaar rijden er geen treinen.",
         "titel": "Arnhem - Winterswijk; Arnhem - Duisburg - Düsseldorf.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 16:30 uur."
+        "verwachting": "Dit duurt tot ongeveer 17:45 uur."
       },
-      "laatst_gewijzigd": "2026-11-17T15:25:13.700859+01:00",
+      "laatst_gewijzigd": "2026-11-17T16:20:19.938107+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
