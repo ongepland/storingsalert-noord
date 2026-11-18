@@ -50,23 +50,6 @@
       "laatst_gewijzigd": "2026-11-18T09:30:30.999104+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "6069271": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-18T12:00:42.793989+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-18T12:45:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Apeldoorn en Klarenbeek zijn de beperkingen voorbij en tussen Apeldoorn en Deventer zijn de beperkingen voorbij.",
-        "titel": "Apeldoorn - Zutphen; Apeldoorn - Deventer.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 12:45 uur."
-      },
-      "laatst_gewijzigd": "2026-11-18T12:25:14.846529+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
