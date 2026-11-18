@@ -56,15 +56,15 @@
       "eerst_gezien": "2026-11-18T12:00:42.793989+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-18T13:45:00+0100",
+        "einde": "2026-11-18T13:00:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
         "situatie": "Door een seinstoring: tussen Apeldoorn en Klarenbeek is er vertraging en rijden er minder treinen en tussen Apeldoorn en Deventer is er vertraging en rijden er minder treinen.",
         "titel": "Apeldoorn - Zutphen; Apeldoorn - Deventer.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 13:45 uur."
+        "verwachting": "Dit duurt tot ongeveer 13:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-18T12:20:18.672421+01:00",
+      "laatst_gewijzigd": "2026-11-18T12:23:47.859403+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
