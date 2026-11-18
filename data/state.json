@@ -33,6 +33,23 @@
       "laatst_gewijzigd": "2026-11-17T17:20:19.767274+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069266": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-18T09:20:22.217108+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-18T11:16:00+0100",
+        "fase": "Nieuw",
+        "omschrijving": "",
+        "situatie": "Door een gestrande trein: tussen Nijmegen en Venlo is er een verstoring in de treindienst.",
+        "titel": "Nijmegen - Venlo.",
+        "vervangend_vervoer": "",
+        "verwachting": "Zodra we meer weten informeren we u verder."
+      },
+      "laatst_gewijzigd": "2026-11-18T09:20:22.217108+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
