@@ -44,10 +44,10 @@
         "omschrijving": "",
         "situatie": "Door beperkingen in de materieelinzet: tussen Nijmegen en Venlo rijden er minder stoptreinen.",
         "titel": "Nijmegen - Venlo.",
-        "vervangend_vervoer": "er rijden stopbussen",
+        "vervangend_vervoer": "er rijden ook stopbussen",
         "verwachting": "De treinen rijden weer normaal rond vrijdag 20 november 18:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-18T09:30:30.999104+01:00",
+      "laatst_gewijzigd": "2026-11-18T19:00:44.177240+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
