@@ -33,23 +33,6 @@
       "laatst_gewijzigd": "2026-11-17T17:20:19.767274+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "6069306": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-19T20:00:42.913314+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-19T21:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Blerick en Venlo zijn de beperkingen voorbij.",
-        "titel": "Eindhoven - Venlo; Nijmegen - Venlo.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-19T20:50:18.164702+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
