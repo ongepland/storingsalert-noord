@@ -38,16 +38,16 @@
       "afwezig": 0,
       "eerst_gezien": "2026-11-19T04:40:19.523732+01:00",
       "inhoud": {
-        "advies": "Vanaf 6:30 uur rijden er minder Stoptreinen",
+        "advies": "",
         "einde": "2026-11-19T19:00:00+0100",
         "fase": "Vervangend vervoer",
         "omschrijving": "",
-        "situatie": "Door beperkingen in de materieelinzet: tussen Nijmegen en Venray is er later vandaag hinder in de treindienst.",
+        "situatie": "Door beperkingen in de materieelinzet: tussen Nijmegen en Venray rijden er minder stoptreinen.",
         "titel": "Nijmegen - Venlo.",
         "vervangend_vervoer": "er rijden ook stopbussen",
         "verwachting": "Dit duurt tot ongeveer 19:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-19T04:40:19.523732+01:00",
+      "laatst_gewijzigd": "2026-11-19T06:30:30.444780+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
