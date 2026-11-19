@@ -34,23 +34,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069266": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-19T04:40:19.523732+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-19T19:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Nijmegen en Venray zijn de beperkingen voorbij.",
-        "titel": "Nijmegen - Venlo.",
-        "vervangend_vervoer": "er rijden nog bussen",
-        "verwachting": "De treinen rijden weer normaal rond 19:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-19T18:55:14.559851+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "e9498e85-02e7-4838-853e-f3e79fb736c7": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-19T11:20:19.171787+01:00",
