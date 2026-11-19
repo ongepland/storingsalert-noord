@@ -39,15 +39,15 @@
       "eerst_gezien": "2026-11-19T20:00:42.913314+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-19T20:45:00+0100",
+        "einde": "2026-11-19T21:00:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Venray en Venlo is er een verstoring in de treindienst.",
+        "situatie": "Door een defecte trein: tussen Venray en Venlo is er vertraging en rijden er minder treinen.",
         "titel": "Nijmegen - Venlo.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 20:45 uur."
+        "verwachting": "Dit duurt tot ongeveer 21:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-19T20:00:42.913314+01:00",
+      "laatst_gewijzigd": "2026-11-19T20:05:20.345009+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
