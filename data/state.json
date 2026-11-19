@@ -34,6 +34,23 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
+    "6069306": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-19T20:00:42.913314+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-19T20:45:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een defecte trein: tussen Venray en Venlo is er een verstoring in de treindienst.",
+        "titel": "Nijmegen - Venlo.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 20:45 uur."
+      },
+      "laatst_gewijzigd": "2026-11-19T20:00:42.913314+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "e9498e85-02e7-4838-853e-f3e79fb736c7": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-19T11:20:19.171787+01:00",
