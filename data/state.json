@@ -50,23 +50,6 @@
       "laatst_gewijzigd": "2026-11-19T20:10:18.345221+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "e9498e85-02e7-4838-853e-f3e79fb736c7": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-19T11:20:19.171787+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "",
-        "fase": "",
-        "omschrijving": "Door een spoedreparatie aan het spoor rijden er vanavond na 20:30 uur geen treinen tussen Zaandam en Purmerend Overwhere. Plan uw reis in de app.",
-        "situatie": "",
-        "titel": "Spoedreparatie aan het spoor Zaandam en Purmerend Overwhere",
-        "vervangend_vervoer": "",
-        "verwachting": ""
-      },
-      "laatst_gewijzigd": "2026-11-19T11:25:13.799398+01:00",
-      "reden": "calamiteit (wordt altijd gemeld)",
-      "type": "CALAMITY"
     }
   },
   "fout": false,
