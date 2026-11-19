@@ -40,14 +40,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-19T21:00:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Blerick en Venlo rijden er geen treinen.",
+        "situatie": "Tussen Blerick en Venlo zijn de beperkingen voorbij.",
         "titel": "Eindhoven - Venlo; Nijmegen - Venlo.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 21:00 uur."
+        "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-19T20:10:18.345221+01:00",
+      "laatst_gewijzigd": "2026-11-19T20:50:18.164702+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     }
