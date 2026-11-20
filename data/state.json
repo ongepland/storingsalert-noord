@@ -1,23 +1,5 @@
 {
-  "actief": {
-    "5ac72127-b0fd-40e3-98ee-6b0b9bf925c5": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-18T02:15:20.955659+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "",
-        "fase": "",
-        "omschrijving": "Door werkzaamheden van zaterdag 21 t/m zondag 29 november rijden er tussen Meppel en Leeuwarden geen treinen maar bussen.",
-        "situatie": "",
-        "titel": "Werkzaamheden Meppel-Leeuwarden van zaterdag 21 t/m zondag 29 november",
-        "vervangend_vervoer": "",
-        "verwachting": ""
-      },
-      "laatst_gewijzigd": "2026-11-18T02:15:20.955659+01:00",
-      "reden": "calamiteit (wordt altijd gemeld)",
-      "type": "CALAMITY"
-    }
-  },
+  "actief": {},
   "fout": false,
   "maand": "2026-11"
 }
