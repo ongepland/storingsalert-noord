@@ -50,23 +50,6 @@
       "laatst_gewijzigd": "2026-11-20T06:20:24.052662+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "6069322": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-20T16:10:23.485497+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-20T17:00:00+0100",
-        "fase": "Gevolgen bekend",
-        "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Sittard en Heerlen is er een verstoring in de treindienst en tussen Heerlen en Valkenburg is er een verstoring in de treindienst.",
-        "titel": "Sittard - Heerlen; Heerlen - Maastricht.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 17:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-20T16:10:23.485497+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
