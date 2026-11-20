@@ -50,6 +50,23 @@
       "laatst_gewijzigd": "2026-11-20T06:20:24.052662+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
+    },
+    "6069312": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-20T06:35:12.913643+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-20T08:45:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een wisselstoring: tussen Leeuwarden en Groningen is er vertraging en rijden er minder treinen.",
+        "titel": "Groningen Europapark - Leeuwarden.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 8:45 uur."
+      },
+      "laatst_gewijzigd": "2026-11-20T06:35:12.913643+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
     }
   },
   "fout": false,
