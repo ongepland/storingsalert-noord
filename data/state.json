@@ -33,23 +33,6 @@
       "laatst_gewijzigd": "2026-11-20T18:10:24.255732+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
-    },
-    "6069266": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-20T06:15:19.820560+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-20T20:00:00+0100",
-        "fase": "Vervangend vervoer",
-        "omschrijving": "",
-        "situatie": "Door beperkingen in de materieelinzet: tussen Nijmegen en Venlo rijden er minder stoptreinen.",
-        "titel": "Nijmegen - Venlo.",
-        "vervangend_vervoer": "er rijden ook stopbussen",
-        "verwachting": "De treinen rijden weer normaal rond 20:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-20T06:20:24.052662+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
     }
   },
   "fout": false,
