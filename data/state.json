@@ -1,5 +1,22 @@
 {
   "actief": {
+    "6069348": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-21T20:10:21.340464+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-21T23:15:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een aanrijding: tussen Leeuwarden en Sneek is er een verstoring in de treindienst.",
+        "titel": "Leeuwarden - Stavoren.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 23:15 uur."
+      },
+      "laatst_gewijzigd": "2026-11-21T20:10:21.340464+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
