@@ -6,14 +6,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-21T23:15:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Vervangend vervoer",
         "omschrijving": "",
         "situatie": "Door een aanrijding: tussen Leeuwarden en Sneek rijden er geen treinen.",
         "titel": "Leeuwarden - Stavoren.",
-        "vervangend_vervoer": "",
+        "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 23:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-21T20:25:16.100146+01:00",
+      "laatst_gewijzigd": "2026-11-21T20:40:21.979219+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
