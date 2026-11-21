@@ -1,22 +1,5 @@
 {
   "actief": {
-    "6069348": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-21T20:10:21.340464+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-21T22:15:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Leeuwarden en Sneek zijn de beperkingen voorbij.",
-        "titel": "Leeuwarden - Stavoren.",
-        "vervangend_vervoer": "er rijden nog stopbussen",
-        "verwachting": "De treinen rijden weer normaal rond 22:15 uur."
-      },
-      "laatst_gewijzigd": "2026-11-21T22:00:12.165915+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
