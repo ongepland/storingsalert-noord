@@ -6,14 +6,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-22T11:30:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Vervangend vervoer",
         "omschrijving": "",
         "situatie": "Door rijp aan de bovenleiding: tussen Maastricht en Aken rijden er geen treinen en tussen Maastricht Randwyck en Luik Guillemins rijden er geen treinen.",
         "titel": "Maastricht - Liège / Luik; Maastricht - Heerlen - Aachen.",
-        "vervangend_vervoer": "",
+        "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 11:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-22T10:20:22.508344+01:00",
+      "laatst_gewijzigd": "2026-11-22T11:05:20.072398+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
