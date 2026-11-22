@@ -8,12 +8,12 @@
         "einde": "2026-11-22T13:30:00+0100",
         "fase": "Vervangend vervoer",
         "omschrijving": "",
-        "situatie": "Door rijp aan de bovenleiding: tussen Maastricht Randwyck en Luik Guillemins rijden er geen treinen.",
+        "situatie": "Door rijp aan de bovenleiding: tussen Maastricht Randwyck en Luik Guillemins rijden er veel minder treinen.",
         "titel": "Maastricht - Liège / Luik.",
         "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 13:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-22T12:50:21.517332+01:00",
+      "laatst_gewijzigd": "2026-11-22T13:00:42.850155+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
