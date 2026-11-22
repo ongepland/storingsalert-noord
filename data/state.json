@@ -5,15 +5,15 @@
       "eerst_gezien": "2026-11-22T09:20:21.415493+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-22T10:00:00+0100",
+        "einde": "2026-11-22T11:30:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Landgraaf en Aken rijden er geen treinen.",
+        "situatie": "Door een defecte trein: tussen Landgraaf en Herzogenrath rijden er geen treinen.",
         "titel": "Heerlen - Aachen Hbf.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 10:00 uur."
+        "verwachting": "Dit duurt tot ongeveer 11:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-22T09:20:21.415493+01:00",
+      "laatst_gewijzigd": "2026-11-22T09:30:32.270153+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
