@@ -22,15 +22,15 @@
       "eerst_gezien": "2026-11-23T00:30:31.434681+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-23T09:30:00+0100",
+        "einde": "2026-11-23T10:30:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
         "situatie": "Door een staking: tussen Herzogenrath en Maastricht rijden er veel minder treinen.",
         "titel": "Maastricht - Heerlen - Aachen.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt ten minste tot 9:30 uur."
+        "verwachting": "Dit duurt ten minste tot 10:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T00:30:31.434681+01:00",
+      "laatst_gewijzigd": "2026-11-23T00:31:11.809429+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
