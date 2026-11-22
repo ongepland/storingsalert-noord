@@ -1,22 +1,5 @@
 {
   "actief": {
-    "6069359": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-22T09:20:21.415493+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-22T11:00:00+0100",
-        "fase": "Impact bekend",
-        "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Landgraaf en Herzogenrath rijden er geen treinen.",
-        "titel": "Heerlen - Aachen Hbf.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 11:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-22T09:35:16.194281+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069360": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-22T09:40:23.281792+01:00",
