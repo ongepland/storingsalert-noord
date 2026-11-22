@@ -34,6 +34,23 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
+    "6069361": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-22T09:55:17.202534+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-22T11:30:00+0100",
+        "fase": "Impact bekend",
+        "omschrijving": "",
+        "situatie": "Door rijp aan de bovenleiding: tussen Maastricht en Aken rijden er geen treinen.",
+        "titel": "Maastricht - Heerlen - Aachen.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 11:30 uur."
+      },
+      "laatst_gewijzigd": "2026-11-22T09:55:17.202534+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
