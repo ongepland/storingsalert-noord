@@ -8,12 +8,12 @@
         "einde": "2026-11-22T21:15:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door spoorproblemen in het buitenland: tussen Bad Nieuweschans en Leer is er een verstoring in de treindienst.",
+        "situatie": "Door spoorproblemen in het buitenland: tussen Bad Nieuweschans en Weener rijden er geen treinen.",
         "titel": "Groningen - Leer.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 21:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-22T18:58:28.735366+01:00",
+      "laatst_gewijzigd": "2026-11-22T19:00:39.617705+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
