@@ -57,14 +57,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-23T11:30:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Vervangend vervoer",
         "omschrijving": "",
         "situatie": "Door een seinstoring: tussen Hardenberg en Coevorden rijden er geen treinen.",
         "titel": "Zwolle - Emmen.",
-        "vervangend_vervoer": "",
+        "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 11:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T10:20:25.147418+01:00",
+      "laatst_gewijzigd": "2026-11-23T10:55:17.131960+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
