@@ -76,12 +76,12 @@
         "einde": "2026-11-23T09:30:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
-        "situatie": "Door een wisselstoring: tussen Arnhem Centraal en Zevenaar rijden er veel minder treinen.",
+        "situatie": "Door een wisselstoring: tussen Arnhem Centraal en Zevenaar rijden er minder treinen.",
         "titel": "Arnhem - Winterswijk.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 9:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T08:15:22.290159+01:00",
+      "laatst_gewijzigd": "2026-11-23T09:05:19.367895+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
