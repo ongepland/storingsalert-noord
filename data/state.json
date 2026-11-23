@@ -23,14 +23,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-23T10:30:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een staking: tussen Maastricht en Heerlen rijden er geen Sneltreinen.",
+        "situatie": "Tussen Maastricht en Heerlen zijn de beperkingen voorbij.",
         "titel": "Heerlen - Maastricht.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt ten minste tot 10:30 uur."
+        "verwachting": "De treinen rijden weer normaal rond 10:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T07:45:30.731465+01:00",
+      "laatst_gewijzigd": "2026-11-23T10:30:33.547867+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
