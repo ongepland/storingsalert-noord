@@ -51,6 +51,23 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
+    "6069404": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-23T12:45:23.335381+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-23T13:30:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een defecte trein: tussen Landgraaf en Aken is er een verstoring in de treindienst.",
+        "titel": "Heerlen - Aachen Hbf.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 13:30 uur."
+      },
+      "laatst_gewijzigd": "2026-11-23T12:45:23.335381+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
