@@ -23,14 +23,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-23T11:00:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een staking: tussen Maastricht en Luik Guillemins rijden er minder treinen.",
+        "situatie": "Tussen Maastricht en Luik Guillemins zijn de beperkingen voorbij.",
         "titel": "Maastricht - Liège / Luik.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 11:00 uur."
+        "verwachting": "De treinen rijden weer normaal rond 11:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T07:45:30.731465+01:00",
+      "laatst_gewijzigd": "2026-11-23T10:50:23.452285+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
