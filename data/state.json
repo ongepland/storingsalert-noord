@@ -6,14 +6,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-24T01:30:00+0100",
-        "fase": "Gevolgen bekend",
+        "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door een staking: tussen Nijmegen en Roermond rijden er geen treinen.",
         "titel": "Nijmegen - Roermond.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer dinsdag 24 november 1:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T00:20:24.767011+01:00",
+      "laatst_gewijzigd": "2026-11-23T08:15:22.290159+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
@@ -73,15 +73,15 @@
       "eerst_gezien": "2026-11-23T06:15:23.217587+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-23T08:30:00+0100",
+        "einde": "2026-11-23T09:30:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
         "situatie": "Door een wisselstoring: tussen Arnhem Centraal en Zevenaar rijden er veel minder treinen.",
         "titel": "Arnhem - Winterswijk.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 8:30 uur."
+        "verwachting": "Dit duurt tot ongeveer 9:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T07:50:22.059111+01:00",
+      "laatst_gewijzigd": "2026-11-23T08:15:22.290159+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
