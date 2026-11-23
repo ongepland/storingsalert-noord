@@ -17,23 +17,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069377": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-23T03:55:20.455214+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-23T21:15:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Arnhem Centraal en Doetinchem zijn de beperkingen voorbij.",
-        "titel": "Arnhem - Doetinchem.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 21:15 uur."
-      },
-      "laatst_gewijzigd": "2026-11-23T21:05:17.118476+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
