@@ -17,23 +17,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069376": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-23T00:35:19.715715+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-23T11:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Maastricht en Luik Guillemins zijn de beperkingen voorbij.",
-        "titel": "Maastricht - Liège / Luik.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 11:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-23T10:50:23.452285+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069377": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-23T03:55:20.455214+01:00",
