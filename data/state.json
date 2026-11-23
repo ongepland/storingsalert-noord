@@ -56,15 +56,15 @@
       "eerst_gezien": "2026-11-23T12:45:23.335381+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-23T13:30:00+0100",
-        "fase": "Gevolgen bekend",
+        "einde": "2026-11-23T13:00:00+0100",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Landgraaf en Aken is er een verstoring in de treindienst.",
+        "situatie": "Tussen Landgraaf en Aken zijn de beperkingen voorbij.",
         "titel": "Heerlen - Aachen Hbf.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 13:30 uur."
+        "verwachting": "De treinen rijden weer normaal rond 13:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-23T12:45:23.335381+01:00",
+      "laatst_gewijzigd": "2026-11-23T12:55:16.821907+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
