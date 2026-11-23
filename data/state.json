@@ -85,6 +85,23 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
+    "6069396": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-23T08:55:20.277623+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-23T11:00:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een seinstoring: tussen Mariënberg en Coevorden is er een verstoring in de treindienst.",
+        "titel": "Zwolle - Emmen.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 11:00 uur."
+      },
+      "laatst_gewijzigd": "2026-11-23T08:55:20.277623+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
