@@ -68,23 +68,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069382": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-23T06:15:23.217587+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-23T20:30:00+0100",
-        "fase": "Gevolgen bekend",
-        "omschrijving": "",
-        "situatie": "Door een wisselstoring: tussen Arnhem Centraal en Zevenaar rijden er minder treinen.",
-        "titel": "Arnhem - Winterswijk.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 20:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-23T09:15:23.320152+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069396": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-23T08:55:20.277623+01:00",
