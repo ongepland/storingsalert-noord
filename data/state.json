@@ -17,23 +17,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069375": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-23T00:30:31.434681+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-23T10:30:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Maastricht en Heerlen zijn de beperkingen voorbij.",
-        "titel": "Heerlen - Maastricht.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 10:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-23T10:30:33.547867+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069376": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-23T00:35:19.715715+01:00",
