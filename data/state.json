@@ -42,12 +42,12 @@
         "einde": "2026-11-24T10:00:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door rijp aan de bovenleiding: tussen Maastricht en Aken rijden er geen Sneltreinen.",
+        "situatie": "Door een defect wissel: tussen Maastricht en Aken rijden er geen Sneltreinen.",
         "titel": "Maastricht - Heerlen - Aachen.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 10:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-24T05:25:22.623216+01:00",
+      "laatst_gewijzigd": "2026-11-24T07:30:34.159053+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
