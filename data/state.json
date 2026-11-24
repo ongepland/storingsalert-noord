@@ -51,23 +51,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069427": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-24T06:58:22.837058+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-24T10:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Vorden en Lichtenvoorde-Groenlo zijn de beperkingen voorbij.",
-        "titel": "Zutphen - Winterswijk.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 10:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-24T09:39:22.009293+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069431": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-24T07:35:17.228620+01:00",
