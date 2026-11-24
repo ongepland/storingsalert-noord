@@ -8,12 +8,12 @@
         "einde": "2026-11-25T00:30:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door een staking: tussen Nijmegen en Roermond rijden er geen treinen.",
+        "situatie": "Door een staking bij Arriva: tussen Nijmegen en Roermond rijden er geen treinen.",
         "titel": "Nijmegen - Roermond.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer woensdag 25 november 0:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-24T04:30:32.860209+01:00",
+      "laatst_gewijzigd": "2026-11-24T07:10:21.719959+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
@@ -25,12 +25,12 @@
         "einde": "2026-11-24T21:00:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door een staking: tussen Arnhem Centraal en Doetinchem rijden er minder stoptreinen.",
+        "situatie": "Door een staking bij Arriva: tussen Arnhem Centraal en Doetinchem rijden er minder stoptreinen.",
         "titel": "Arnhem - Doetinchem.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 21:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-24T05:20:26.616113+01:00",
+      "laatst_gewijzigd": "2026-11-24T07:10:21.719959+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
