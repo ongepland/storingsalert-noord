@@ -42,12 +42,12 @@
         "einde": "2026-11-24T10:00:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door een defect wissel: tussen Maastricht en Aken rijden er geen Sneltreinen.",
+        "situatie": "Door een staking bij Arriva: tussen Maastricht en Heerlen rijden er geen Sneltreinen.",
         "titel": "Maastricht - Heerlen - Aachen.",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 10:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-24T07:30:34.159053+01:00",
+      "laatst_gewijzigd": "2026-11-24T07:35:17.228620+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
@@ -65,6 +65,23 @@
         "verwachting": "Dit duurt tot ongeveer 9:15 uur."
       },
       "laatst_gewijzigd": "2026-11-24T07:15:21.230930+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
+    "6069431": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-24T07:35:17.228620+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-25T02:00:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een defect wissel: tussen Herzogenrath en Aken is er vertraging en rijden er minder treinen.",
+        "titel": "Heerlen - Aachen Hbf.",
+        "vervangend_vervoer": "",
+        "verwachting": "Het is nog niet bekend hoe lang dit zal duren."
+      },
+      "laatst_gewijzigd": "2026-11-24T07:35:17.228620+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
