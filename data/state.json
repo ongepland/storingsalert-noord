@@ -34,23 +34,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069431": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-24T07:35:17.228620+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-24T12:00:00+0100",
-        "fase": "Gevolgen bekend",
-        "omschrijving": "",
-        "situatie": "Door een defect wissel: tussen Herzogenrath en Aken is er vertraging en rijden er minder treinen.",
-        "titel": "Heerlen - Aachen Hbf.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 12:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-24T07:55:19.563244+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
