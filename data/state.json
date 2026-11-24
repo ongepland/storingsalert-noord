@@ -84,6 +84,23 @@
       "laatst_gewijzigd": "2026-11-20T23:55:18.072969+01:00",
       "reden": "calamiteit (wordt altijd gemeld)",
       "type": "CALAMITY"
+    },
+    "d5457dee-cc26-4825-b5c3-d1a6216d245a": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-24T10:30:33.091796+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "",
+        "fase": "",
+        "omschrijving": "Teaser Door werkzaamheden is het treinverkeer op het traject Zaandam-Hoorn aangepast van maandag 30 november tot en met dinsdag 8 december 2026.",
+        "situatie": "",
+        "titel": "Werkzaamheden Zaandam-Hoorn, 30 november-8 december",
+        "vervangend_vervoer": "",
+        "verwachting": ""
+      },
+      "laatst_gewijzigd": "2026-11-24T10:30:33.091796+01:00",
+      "reden": "calamiteit (wordt altijd gemeld)",
+      "type": "CALAMITY"
     }
   },
   "fout": false,
