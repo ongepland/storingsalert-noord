@@ -17,6 +17,23 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
+    "6069377": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-24T05:20:26.616113+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-24T21:00:00+0100",
+        "fase": "Impact bekend",
+        "omschrijving": "",
+        "situatie": "Door een staking: tussen Arnhem Centraal en Doetinchem rijden er minder stoptreinen.",
+        "titel": "Arnhem - Doetinchem.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 21:00 uur."
+      },
+      "laatst_gewijzigd": "2026-11-24T05:20:26.616113+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
