@@ -57,14 +57,14 @@
       "inhoud": {
         "advies": "",
         "einde": "2026-11-24T10:00:00+0100",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een aanrijding: tussen Vorden en Lichtenvoorde-Groenlo rijden er geen treinen.",
+        "situatie": "Tussen Vorden en Lichtenvoorde-Groenlo zijn de beperkingen voorbij.",
         "titel": "Zutphen - Winterswijk.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 10:00 uur."
+        "verwachting": "De treinen rijden weer normaal rond 10:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-24T09:05:17.102290+01:00",
+      "laatst_gewijzigd": "2026-11-24T09:39:22.009293+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
