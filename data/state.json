@@ -73,15 +73,15 @@
       "eerst_gezien": "2026-11-24T07:35:17.228620+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-25T02:00:00+0100",
+        "einde": "2026-11-24T12:00:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
         "situatie": "Door een defect wissel: tussen Herzogenrath en Aken is er vertraging en rijden er minder treinen.",
         "titel": "Heerlen - Aachen Hbf.",
         "vervangend_vervoer": "",
-        "verwachting": "Het is nog niet bekend hoe lang dit zal duren."
+        "verwachting": "Dit duurt tot ongeveer 12:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-24T07:35:17.228620+01:00",
+      "laatst_gewijzigd": "2026-11-24T07:55:19.563244+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
