@@ -22,15 +22,15 @@
       "eerst_gezien": "2026-11-24T05:20:26.616113+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-24T21:00:00+0100",
-        "fase": "Impact bekend",
+        "einde": "2026-11-24T21:15:00+0100",
+        "fase": "Storing voorbij",
         "omschrijving": "",
-        "situatie": "Door een staking bij Arriva: tussen Arnhem Centraal en Doetinchem rijden er minder stoptreinen.",
+        "situatie": "Tussen Arnhem Centraal en Doetinchem zijn de beperkingen voorbij.",
         "titel": "Arnhem - Doetinchem.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 21:00 uur."
+        "verwachting": "De treinen rijden weer normaal rond 21:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-24T07:10:21.719959+01:00",
+      "laatst_gewijzigd": "2026-11-24T21:05:44.921928+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
