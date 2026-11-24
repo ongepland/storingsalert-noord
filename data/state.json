@@ -1,22 +1,5 @@
 {
   "actief": {
-    "6069374": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-24T04:30:32.860209+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-25T00:30:00+0100",
-        "fase": "Impact bekend",
-        "omschrijving": "",
-        "situatie": "Door een staking bij Arriva: tussen Nijmegen en Roermond rijden er geen treinen.",
-        "titel": "Nijmegen - Roermond.",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer woensdag 25 november 0:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-24T07:10:21.719959+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "a4bd5b0e-951d-4362-8f07-a45413e18dca": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-20T23:55:18.072969+01:00",
