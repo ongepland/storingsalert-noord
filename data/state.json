@@ -22,15 +22,15 @@
       "eerst_gezien": "2026-11-25T11:35:19.652629+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-25T13:00:00+0100",
+        "einde": "2026-11-25T14:00:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door een overwegstoring: tussen Elst en Tiel rijden er geen treinen.",
         "titel": "Arnhem - Tiel.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 13:00 uur."
+        "verwachting": "Dit duurt tot ongeveer 14:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-25T11:40:27.365029+01:00",
+      "laatst_gewijzigd": "2026-11-25T11:45:25.801520+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
