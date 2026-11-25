@@ -5,15 +5,15 @@
       "eerst_gezien": "2026-11-25T06:00:39.319591+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-25T06:30:00+0100",
-        "fase": "Gevolgen bekend",
+        "einde": "2026-11-25T07:45:00+0100",
+        "fase": "Impact bekend",
         "omschrijving": "",
-        "situatie": "Door een defecte trein: tussen Hengelo en Enschede is er een verstoring in de treindienst en tussen Hengelo en Hengelo Oost is er een verstoring in de treindienst.",
-        "titel": "Hengelo - Enschede; Hengelo - Oldenzaal.",
+        "situatie": "Door een defecte trein: tussen Delden en Hengelo rijden er geen treinen.",
+        "titel": "Zutphen - Hengelo.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 6:30 uur."
+        "verwachting": "Dit duurt tot ongeveer 7:45 uur."
       },
-      "laatst_gewijzigd": "2026-11-25T06:00:39.319591+01:00",
+      "laatst_gewijzigd": "2026-11-25T06:30:30.094109+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
