@@ -1,5 +1,22 @@
 {
   "actief": {
+    "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-25T05:50:24.814296+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "",
+        "fase": "",
+        "omschrijving": "Vanwege een staking van de schoonmakers vragen wij je om je afval mee te nemen bij het verlaten van de trein.",
+        "situatie": "",
+        "titel": "Staking schoonmakers: neem je afval mee uit de trein",
+        "vervangend_vervoer": "",
+        "verwachting": ""
+      },
+      "laatst_gewijzigd": "2026-11-25T05:50:24.814296+01:00",
+      "reden": "calamiteit (wordt altijd gemeld)",
+      "type": "CALAMITY"
+    },
     "d0894a7f-de35-4ce3-b026-ae3768397a22": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-25T05:40:21.475514+01:00",
