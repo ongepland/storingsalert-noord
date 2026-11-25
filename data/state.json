@@ -5,15 +5,15 @@
       "eerst_gezien": "2026-11-25T06:00:39.319591+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-25T07:45:00+0100",
+        "einde": "2026-11-25T08:15:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door een defecte trein: tussen Delden en Hengelo rijden er geen treinen.",
         "titel": "Zutphen - Hengelo.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 7:45 uur."
+        "verwachting": "Dit duurt tot ongeveer 8:15 uur."
       },
-      "laatst_gewijzigd": "2026-11-25T06:30:30.094109+01:00",
+      "laatst_gewijzigd": "2026-11-25T07:05:20.891446+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
