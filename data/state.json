@@ -1,22 +1,5 @@
 {
   "actief": {
-    "6069459": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-25T05:55:20.863562+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-25T10:30:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Maastricht en Heerlen zijn de beperkingen voorbij.",
-        "titel": "Maastricht - Heerlen - Aachen.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 10:30 uur."
-      },
-      "laatst_gewijzigd": "2026-11-25T10:15:27.968237+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "6069460": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-25T06:40:23.929746+01:00",
