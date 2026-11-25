@@ -5,15 +5,15 @@
       "eerst_gezien": "2026-11-25T05:55:20.863562+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-25T10:00:00+0100",
+        "einde": "2026-11-25T10:30:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door rijp aan de bovenleiding: tussen Maastricht en Heerlen rijden er geen Sneltreinen.",
         "titel": "Maastricht - Heerlen - Aachen.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 10:00 uur."
+        "verwachting": "Dit duurt tot ongeveer 10:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-25T05:55:20.863562+01:00",
+      "laatst_gewijzigd": "2026-11-25T09:45:23.566457+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
