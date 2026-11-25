@@ -34,6 +34,23 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
+    "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-25T08:15:25.116145+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "",
+        "fase": "",
+        "omschrijving": "Neem je afval mee uit de trein.",
+        "situatie": "",
+        "titel": "Staking schoonmakers",
+        "vervangend_vervoer": "",
+        "verwachting": ""
+      },
+      "laatst_gewijzigd": "2026-11-25T08:15:25.116145+01:00",
+      "reden": "calamiteit (wordt altijd gemeld)",
+      "type": "CALAMITY"
+    },
     "d0894a7f-de35-4ce3-b026-ae3768397a22": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-25T08:10:07.372351+01:00",
