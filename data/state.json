@@ -1,5 +1,22 @@
 {
   "actief": {
+    "6069481": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-26T00:10:21.981070+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-26T02:00:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een sein- en wisselstoring: tussen Zutphen en Winterswijk is er een verstoring in de treindienst en tussen Zutphen en Winterswijk is er een verstoring in de treindienst.",
+        "titel": "Zutphen - Winterswijk.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 2:00 uur."
+      },
+      "laatst_gewijzigd": "2026-11-26T00:10:21.981070+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-25T08:15:25.116145+01:00",
