@@ -24,13 +24,13 @@
         "advies": "",
         "einde": "",
         "fase": "",
-        "omschrijving": "Vanwege een staking van de schoonmakers vragen wij je om je afval mee te nemen bij het verlaten van de trein.",
+        "omschrijving": "Vanwege een staking van een deel van de schoonmakers vragen wij je om je afval mee te nemen bij het verlaten van de trein.",
         "situatie": "",
         "titel": "Staking schoonmakers",
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gewijzigd": "2026-11-25T08:55:17.096835+01:00",
+      "laatst_gewijzigd": "2026-11-25T10:50:25.157154+01:00",
       "reden": "calamiteit (wordt altijd gemeld)",
       "type": "CALAMITY"
     },
