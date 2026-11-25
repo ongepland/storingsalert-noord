@@ -22,15 +22,15 @@
       "eerst_gezien": "2026-11-25T16:35:18.605232+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-25T17:15:00+0100",
+        "einde": "2026-11-25T18:00:00+0100",
         "fase": "Gevolgen bekend",
         "omschrijving": "",
         "situatie": "Door een defecte trein: tussen Arnhem Centraal en Emmerich rijden er geen stoptreinen en tussen Arnhem Centraal en Zevenaar rijden er geen stoptreinen.",
         "titel": "Arnhem - Winterswijk; Arnhem - Duisburg - Düsseldorf.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 17:15 uur."
+        "verwachting": "Dit duurt tot ongeveer 18:00 uur."
       },
-      "laatst_gewijzigd": "2026-11-25T16:50:27.757134+01:00",
+      "laatst_gewijzigd": "2026-11-25T17:10:29.606026+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
