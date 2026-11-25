@@ -17,6 +17,23 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
+    "6069477": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-25T16:35:18.605232+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "2026-11-25T17:15:00+0100",
+        "fase": "Gevolgen bekend",
+        "omschrijving": "",
+        "situatie": "Door een defecte trein: tussen Arnhem Centraal en Zevenaar is er een verstoring in de treindienst en tussen Zevenaar en Doetinchem is er een verstoring in de treindienst.",
+        "titel": "Arnhem - Winterswijk.",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 17:15 uur."
+      },
+      "laatst_gewijzigd": "2026-11-25T16:35:18.605232+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-25T08:15:25.116145+01:00",
