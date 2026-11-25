@@ -17,23 +17,6 @@
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
-    "6069464": {
-      "afwezig": 1,
-      "eerst_gezien": "2026-11-25T11:35:19.652629+01:00",
-      "inhoud": {
-        "advies": "",
-        "einde": "2026-11-25T14:00:00+0100",
-        "fase": "Storing voorbij",
-        "omschrijving": "",
-        "situatie": "Tussen Elst en Tiel zijn de beperkingen voorbij.",
-        "titel": "Arnhem - Tiel.",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 14:00 uur."
-      },
-      "laatst_gewijzigd": "2026-11-25T13:50:22.794259+01:00",
-      "reden": "label Arriva",
-      "type": "DISRUPTION"
-    },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-25T08:15:25.116145+01:00",
