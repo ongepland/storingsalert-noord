@@ -5,20 +5,20 @@
       "eerst_gezien": "2026-11-25T06:40:23.929746+01:00",
       "inhoud": {
         "advies": "",
-        "einde": "2026-11-25T23:30:00+0100",
+        "einde": "2026-11-25T20:30:00+0100",
         "fase": "Impact bekend",
         "omschrijving": "",
         "situatie": "Door beperkingen in de materieelinzet: tussen Arnhem Centraal en Doetinchem rijden er minder stoptreinen.",
         "titel": "Arnhem - Doetinchem.",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt ten minste tot 23:30 uur."
+        "verwachting": "Dit duurt ten minste tot 20:30 uur."
       },
-      "laatst_gewijzigd": "2026-11-25T06:40:23.929746+01:00",
+      "laatst_gewijzigd": "2026-11-25T17:35:18.379702+01:00",
       "reden": "label Arriva",
       "type": "DISRUPTION"
     },
     "6069477": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-25T16:35:18.605232+01:00",
       "inhoud": {
         "advies": "",
