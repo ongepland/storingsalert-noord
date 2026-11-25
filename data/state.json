@@ -1,5 +1,22 @@
 {
   "actief": {
+    "d0894a7f-de35-4ce3-b026-ae3768397a22": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-25T05:40:21.475514+01:00",
+      "inhoud": {
+        "advies": "",
+        "einde": "",
+        "fase": "",
+        "omschrijving": "Door werkzaamheden op zaterdag 28 t/m maandag 30 november rijden er tussen Sittard en Heerlen geen treinen maar bussen.",
+        "situatie": "",
+        "titel": "Werkzaamheden Sittard-Heerlen op zaterdag 28 t/m maandag 30 november",
+        "vervangend_vervoer": "",
+        "verwachting": ""
+      },
+      "laatst_gewijzigd": "2026-11-25T05:40:21.475514+01:00",
+      "reden": "calamiteit (wordt altijd gemeld)",
+      "type": "CALAMITY"
+    },
     "d5457dee-cc26-4825-b5c3-d1a6216d245a": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-24T10:30:33.091796+01:00",
