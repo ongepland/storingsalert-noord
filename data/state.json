@@ -1,5 +1,22 @@
 {
   "actief": {
+    "6069489": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-26T09:15:28.265061+01:00",
+      "inhoud": {
+        "advies": "Let op! morgen vrijdag 27 november rijden er ook minder treinen.",
+        "einde": "2026-11-26T21:00:00+0100",
+        "fase": "Impact bekend",
+        "omschrijving": "",
+        "situatie": "Door beperkingen in de materieelinzet: tussen Arnhem Centraal en Doetinchem rijden er minder treinen.",
+        "titel": "Arnhem - Doetinchem.",
+        "vervangend_vervoer": "",
+        "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
+      },
+      "laatst_gewijzigd": "2026-11-26T09:15:28.265061+01:00",
+      "reden": "label Arriva",
+      "type": "DISRUPTION"
+    },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-25T08:15:25.116145+01:00",
