@@ -22,7 +22,7 @@
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
       "laatst_gewijzigd": "2026-11-26T09:15:28.265061+01:00",
-      "laatst_gezien": "2026-11-26T18:25:16.232478+01:00",
+      "laatst_gezien": "2026-11-26T18:29:19.289850+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -33,7 +33,7 @@
       "voorbij": 0
     },
     "6069496": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-26T17:40:22.621761+01:00",
       "geplaatst": {
         "advies": "",
@@ -89,7 +89,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-26T18:25:16.232478+01:00",
+      "laatst_gezien": "2026-11-26T18:29:19.289850+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -124,7 +124,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-26T18:25:16.232478+01:00",
+      "laatst_gezien": "2026-11-26T18:29:19.289850+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
