@@ -3,55 +3,108 @@
     "6069489": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-26T09:15:28.265061+01:00",
+      "geplaatst": {
+        "advies": "Let op! morgen vrijdag 27 november rijden er ook minder treinen.",
+        "impact": "minder treinen",
+        "prognose": 1260,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Arnhem Centraal – Doetinchem",
+      "infoplus_publicatie": "2026-11-26T09:30:05+01:00",
+      "infoplus_start": "2026-11-25T13:23:00+01:00",
       "inhoud": {
         "advies": "Let op! morgen vrijdag 27 november rijden er ook minder treinen.",
-        "einde": "2026-11-26T21:00:00+0100",
         "fase": "Impact bekend",
-        "omschrijving": "",
+        "oorzaak": "beperkingen materieel",
         "situatie": "Door beperkingen in de materieelinzet: tussen Arnhem Centraal en Doetinchem rijden er minder treinen.",
-        "titel": "Arnhem - Doetinchem.",
+        "titel": "Arnhem - Doetinchem",
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
       "laatst_gewijzigd": "2026-11-26T09:15:28.265061+01:00",
+      "laatst_gezien": "2026-11-26T12:40:22.886299+01:00",
+      "opgelost": false,
       "reden": "label Arriva",
-      "type": "DISRUPTION"
+      "regio": "Achterhoek",
+      "stromen": [
+        "Oost"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
     },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
+      "alle_regios": false,
+      "betreft": "niet herkend (landelijk bericht)",
       "eerst_gezien": "2026-11-25T08:15:25.116145+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "verstoring",
+        "prognose": null,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "",
+      "herkend": "",
+      "infoplus_publicatie": "",
+      "infoplus_start": "",
       "inhoud": {
         "advies": "",
-        "einde": "",
         "fase": "",
-        "omschrijving": "Vanwege een staking van een deel van de schoonmakers vragen wij je om je afval mee te nemen bij het verlaten van de trein en het station.",
-        "situatie": "",
+        "oorzaak": "",
+        "situatie": "Vanwege een staking van een deel van de schoonmakers vragen wij je om je afval mee te nemen bij het verlaten van de trein en het station.",
         "titel": "Staking schoonmakers",
         "vervangend_vervoer": "",
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
+      "laatst_gezien": "2026-11-26T12:40:22.886299+01:00",
+      "link": "https://www.ns.nl/reisplanner/#/",
+      "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
-      "type": "CALAMITY"
+      "regio": "",
+      "stromen": [],
+      "type": "CALAMITY",
+      "voorbij": 0
     },
     "d0894a7f-de35-4ce3-b026-ae3768397a22": {
       "afwezig": 0,
+      "alle_regios": false,
+      "betreft": "ja",
       "eerst_gezien": "2026-11-25T08:10:07.372351+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "geen treinen",
+        "prognose": null,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "",
+      "herkend": "Heerlen, Sittard",
+      "infoplus_publicatie": "",
+      "infoplus_start": "",
       "inhoud": {
         "advies": "",
-        "einde": "",
         "fase": "",
-        "omschrijving": "Door werkzaamheden op zaterdag 28 t/m maandag 30 november rijden er tussen Sittard en Heerlen geen treinen maar bussen.",
-        "situatie": "",
+        "oorzaak": "",
+        "situatie": "Door werkzaamheden op zaterdag 28 t/m maandag 30 november rijden er tussen Sittard en Heerlen geen treinen maar bussen.",
         "titel": "Werkzaamheden Sittard-Heerlen op 28 t/m 30 november",
         "vervangend_vervoer": "",
         "verwachting": ""
       },
+      "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
+      "laatst_gezien": "2026-11-26T12:40:22.886299+01:00",
+      "link": "https://www.ns.nl/reisplanner/#/",
+      "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
-      "type": "CALAMITY"
+      "regio": "Limburg",
+      "stromen": [
+        "Limburg"
+      ],
+      "type": "CALAMITY",
+      "voorbij": 0
     }
   },
   "fout": false,
-  "maand": "2026-11"
+  "maand": "2026-11",
+  "recent": {}
 }
