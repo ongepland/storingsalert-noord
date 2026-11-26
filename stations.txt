@@ -1,0 +1,204 @@
+# Stationslijst Storingsalert trein Arriva (v6)
+# --------------------------------------------------------------
+# Formaat:  CODE  Naam            (één station per regel)
+#           CODE  Naam  knooppunt  (gedeeld met NS of andere vervoerder)
+#
+# Gebruik:
+#  - Filter: een melding telt mee als InfoPlus 'Arriva' als vervoerder noemt,
+#    OF als er een station in staat van een regio uit 'filter_regios' dat GEEN knooppunt is.
+#  - Regio in de kaart: bepaald op basis van alle stations hieronder (ook knooppunten).
+#  - Stroom: elke concessie hoort bij een Teams-kanaal (zie 'stromen'). Een kaart gaat
+#    altijd naar 'Landelijk' en daarnaast naar het kanaal van zijn regio.
+#  - Calamiteiten (landelijke NS-berichten zonder stations) worden altijd gemeld in 'Landelijk'.
+#    Noemt de tekst stations uit deze lijst, dan ook in dat regiokanaal. Noemt de tekst 'Arriva'
+#    of 'streekvervoer' zonder regio, dan in alle regiokanalen.
+#
+# Bron: 'Trein reisinformatie - Trajecten en afkortingen.xlsx' (Bianca).
+# Knooppunten Groningen/Friesland: gevalideerd (Leer: voorstel 12-11).
+# Knooppunten overige regio's: VOORSTEL Claude 12-11-2026, ter validatie door Bianca.
+
+filter_regios = Groningen, Friesland, Achterhoek, Limburg, Vechtdallijnen, Twente
+
+# Concessie -> stroom (Teams-kanaal). Secret per stroom: TEAMS_WEBHOOK_<STROOM>, bv. TEAMS_WEBHOOK_OOST
+stromen = Groningen:Noord, Friesland:Noord, Achterhoek:Oost, Vechtdallijnen:Oost, Twente:Oost, Limburg:Limburg
+
+[Groningen]
+# Groningen - Roodeschool
+Gn    Groningen  knooppunt
+GnN   Groningen Noord
+Swd   Sauwerd
+Wsm   Winsum
+Bf    Baflo
+Wfm   Warffum
+Ust   Usquert
+Uhz   Uithuizen
+Uhm   Uithuizermeeden
+Rd    Roodeschool
+Eem   Eemshaven
+# Groningen - Delfzijl
+Bdm   Bedum
+Stm   Stedum
+Lp    Loppersum
+Apg   Appingedam
+Dzw   Delfzijl West
+Dz    Delfzijl
+# Groningen - Leer
+Gerp  Groningen Europapark  knooppunt
+Kw    Kropswolde
+Mth   Martenshoek
+Hgz   Hoogezand-Sappemeer
+Spm   Sappemeer Oost
+Zb    Zuidbroek
+Sda   Scheemda
+Ws    Winschoten
+Nsch  Bad Nieuweschans
+Wr    Weener
+Leer  Leer (Ostfriesl)  knooppunt
+# Groningen - Veendam
+Vdm   Veendam
+
+[Friesland]
+# Groningen - Leeuwarden
+Gn    Groningen  knooppunt
+Zh    Zuidhorn
+Gk    Grijpskerk
+Bp    Buitenpost
+Zww   De Westereen
+Vwd   Feanwâlden
+Hdg   Hurdegaryp
+Lwc   Leeuwarden Camminghaburen
+Adh   Leeuwarden Achter de Hoven
+Lw    Leeuwarden  knooppunt
+# Leeuwarden - Stavoren
+Mg    Mantgum
+Sknd  Sneek Noord
+Sk    Sneek
+Ijt   IJlst
+Wk    Workum
+Hnp   Hindeloopen
+Kmw   Koudum-Molkwerum
+Stv   Stavoren
+# Leeuwarden - Harlingen Haven
+Dei   Deinum
+Drp   Dronrijp
+Fn    Franeker
+Hlg   Harlingen
+Hlgh  Harlingen Haven
+
+[Achterhoek]
+# Arnhem - Winterswijk
+Ah    Arnhem  knooppunt
+Ahp   Arnhem Velperpoort  knooppunt
+Wtv   Westervoort
+Dvn   Duiven
+Zv    Zevenaar  knooppunt
+Did   Didam
+Wl    Wehl
+Dtch  Doetinchem de Huet
+Dtc   Doetinchem
+Gdr   Gaanderen
+Tbg   Terborg
+Vsv   Varsseveld
+Atn   Aalten
+Ww    Winterswijk
+# Tiel - Arhem
+Tl    Tiel  knooppunt
+Ktr   Kesteren
+Op    Opheusden
+Hmn   Hemmen-Dodewaard
+Za    Zetten-Andelst
+Est   Elst  knooppunt
+# Apeldoorn - Zutphen
+Apd   Apeldoorn  knooppunt
+Apdm  Apeldoorn de Maten
+Kbk   Klarenbeek
+Vem   Voorst-Empe
+Zp    Zutphen  knooppunt
+# Zutphen - Winterswijk
+Vd    Vorden
+Rl    Ruurlo
+Ltv   Lichtenvoorde
+Www   Winterswijk West
+
+[Limburg]
+# Roermond - Maastricht Randwyck
+Rm    Roermond  knooppunt
+Ec    Echt
+Srn   Susteren
+Std   Sittard  knooppunt
+Lut   Geleen-Lutterade
+Bk    Beek-Elsloo
+Bde   Bunde
+Mt    Maastricht  knooppunt
+Mtr   Maastricht Randwyck
+# Sittard-Heerlen-Kerkrade Centrum
+Gln   Geleen Oost
+Sbk   Spaubeek
+Sn    Schinnen
+Nh    Nuth
+Hb    Hoensbroek
+Hrl   Heerlen  knooppunt
+Lg    Landgraaf
+Egh   Eygelshoven
+Cvm   Chevremont
+Krd   Kerkrade Centrum
+# Maaslijn
+# Nijmegen - Roermond
+Nm    Nijmegen  knooppunt
+Nmh   Nijmegen Heyendaal
+Mmlh  Mook-Molenhoek
+Ck    Cuijk
+Bmr   Boxmeer
+Vlb   Vierlingsbeek
+Vry   Venray
+Br    Blerick  knooppunt
+Vl    Venlo  knooppunt
+Tg    Tegelen
+Rv    Reuver
+Sm    Swalmen
+# Heuvellandlijn
+# Maastricht Randwyck - Heerlen
+Mtn   Maastricht Noord
+Mes   Meerssen
+Sgl   Houthem-St. Gerlach
+Vk    Valkenburg
+Sog   Schin op Geul
+Kmr   Klimmen-Ransdaal
+Vdl   Voerendaal
+Hrlw  Heerlen Woonboulevard
+
+[Vechtdallijnen]
+# Almelo - Hardenberg
+Aml   Almelo  knooppunt
+Vz    Vriezenveen
+Da    Daarlerveen
+Vhp   Vroomshoop
+Gdk   Geerdijk
+Mrb   Mariënberg
+Hdb   Hardenberg
+# Zwolle - Emmen
+Zl    Zwolle  knooppunt
+Dl    Dalfsen
+Omn   Ommen
+Gbg   Gramsbergen
+Co    Coevorden
+Dln   Dalen
+Na    Nieuw Amsterdam
+Emnz  Emmen Zuid
+Emn   Emmen
+
+[Twente]
+# Toegevoegd 26-11-2026 (bevestigd door Bianca: Arriva, regio Oost).
+# Codes: inschatting Claude. De naam werkt als reserve als een code afwijkt.
+# Zutphen - Hengelo
+Zp    Zutphen  knooppunt
+Lc    Lochem
+Go    Goor
+Ddn   Delden
+Hglg  Hengelo Gezondheidspark
+Hgl   Hengelo  knooppunt
+# Hengelo - Enschede
+Esk   Enschede Kennispark
+Es    Enschede  knooppunt
+# Hengelo - Oldenzaal
+Odz   Oldenzaal
