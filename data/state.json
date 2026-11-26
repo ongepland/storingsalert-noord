@@ -22,10 +22,41 @@
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
       "laatst_gewijzigd": "2026-11-26T09:15:28.265061+01:00",
-      "laatst_gezien": "2026-11-26T17:35:20.221293+01:00",
+      "laatst_gezien": "2026-11-26T17:40:22.621761+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
+      "stromen": [
+        "Oost"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069496": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-26T17:40:22.621761+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "minder treinen",
+        "prognose": 1185,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Almelo – Enschede",
+      "infoplus_publicatie": "2026-11-26T17:37:32+01:00",
+      "infoplus_start": "2026-11-26T17:20:39+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Impact bekend",
+        "oorzaak": "seinstoring",
+        "situatie": "Door een seinstoring: tussen Almelo en Enschede rijden er veel minder treinen.",
+        "titel": "Deventer - Enschede; Zwolle - Enschede",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 19:45 uur."
+      },
+      "laatst_gezien": "2026-11-26T17:40:22.621761+01:00",
+      "opgelost": false,
+      "reden": "station(s): Enschede Kennispark",
+      "regio": "Twente",
       "stromen": [
         "Oost"
       ],
@@ -57,7 +88,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-26T17:35:20.221293+01:00",
+      "laatst_gezien": "2026-11-26T17:40:22.621761+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -92,7 +123,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-26T17:35:20.221293+01:00",
+      "laatst_gezien": "2026-11-26T17:40:22.621761+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
