@@ -22,7 +22,7 @@
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
       "laatst_gewijzigd": "2026-11-26T09:15:28.265061+01:00",
-      "laatst_gezien": "2026-11-26T20:00:42.967982+01:00",
+      "laatst_gezien": "2026-11-26T20:05:17.730010+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -42,19 +42,19 @@
         "vervangend_vervoer": ""
       },
       "getroffen": "Arnhem Centraal – Zevenaar; Arnhem Centraal – Zutphen",
-      "infoplus_publicatie": "2026-11-26T19:54:29+01:00",
+      "infoplus_publicatie": "2026-11-26T20:00:45+01:00",
       "infoplus_start": "2026-11-26T19:31:00+01:00",
       "inhoud": {
         "advies": "",
-        "fase": "Gevolgen bekend",
+        "fase": "Storing voorbij",
         "oorzaak": "defecte trein",
-        "situatie": "Door een defecte trein: tussen Arnhem Centraal en Zevenaar rijden er veel minder treinen en tussen Arnhem Centraal en Zutphen is er vertraging en rijden er minder treinen.",
+        "situatie": "Tussen Arnhem Centraal en Zevenaar zijn de beperkingen voorbij en tussen Arnhem Centraal en Zutphen zijn de beperkingen voorbij.",
         "titel": "Arnhem - Zutphen; Arnhem - Winterswijk",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 20:45 uur."
+        "verwachting": "De treinen rijden weer normaal rond 20:15 uur."
       },
       "laatst_geplaatst": "2026-11-26T19:50:22.883809+01:00",
-      "laatst_gezien": "2026-11-26T20:00:42.967982+01:00",
+      "laatst_gezien": "2026-11-26T20:05:17.730010+01:00",
       "opgelost": false,
       "reden": "station(s): Duiven, Westervoort",
       "regio": "Achterhoek",
@@ -62,7 +62,7 @@
         "Oost"
       ],
       "type": "DISRUPTION",
-      "voorbij": 0
+      "voorbij": 1
     },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
@@ -89,7 +89,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-26T20:00:42.967982+01:00",
+      "laatst_gezien": "2026-11-26T20:05:17.730010+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -124,7 +124,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-26T20:00:42.967982+01:00",
+      "laatst_gezien": "2026-11-26T20:05:17.730010+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
