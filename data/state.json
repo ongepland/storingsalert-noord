@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T11:10:22.139762+01:00",
+      "laatst_gezien": "2026-11-27T11:15:22.930332+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -30,38 +30,6 @@
       ],
       "type": "DISRUPTION",
       "voorbij": 0
-    },
-    "6069508": {
-      "afwezig": 2,
-      "eerst_gezien": "2026-11-27T08:45:22.982281+01:00",
-      "geplaatst": {
-        "advies": "",
-        "impact": "voorbij",
-        "prognose": 660,
-        "vervangend_vervoer": ""
-      },
-      "getroffen": "Arnhem Centraal – Nijmegen",
-      "infoplus_publicatie": "2026-11-27T10:35:47+01:00",
-      "infoplus_start": "2026-11-27T08:17:00+01:00",
-      "inhoud": {
-        "advies": "",
-        "fase": "Storing voorbij",
-        "oorzaak": "wisselstoring",
-        "situatie": "Tussen Nijmegen en Arnhem Centraal zijn de beperkingen voorbij.",
-        "titel": "Arnhem - Nijmegen",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 11:00 uur."
-      },
-      "laatst_geplaatst": "2026-11-27T10:10:21.647709+01:00",
-      "laatst_gezien": "2026-11-27T11:00:42.100677+01:00",
-      "opgelost": true,
-      "reden": "label Arriva",
-      "regio": "Limburg",
-      "stromen": [
-        "Limburg"
-      ],
-      "type": "DISRUPTION",
-      "voorbij": 6
     },
     "6069510": {
       "afwezig": 0,
@@ -85,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T11:10:22.139762+01:00",
+      "laatst_gezien": "2026-11-27T11:15:22.930332+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -116,7 +84,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 12:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:10:22.139762+01:00",
+      "laatst_gezien": "2026-11-27T11:15:22.930332+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -147,7 +115,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:10:22.139762+01:00",
+      "laatst_gezien": "2026-11-27T11:15:22.930332+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -178,7 +146,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:10:22.139762+01:00",
+      "laatst_gezien": "2026-11-27T11:15:22.930332+01:00",
       "opgelost": false,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
@@ -213,7 +181,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T11:10:22.139762+01:00",
+      "laatst_gezien": "2026-11-27T11:15:22.930332+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -248,7 +216,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T11:10:22.139762+01:00",
+      "laatst_gezien": "2026-11-27T11:15:22.930332+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -292,6 +260,11 @@
       "afgemeld": "2026-11-27T09:00:43.091247+01:00",
       "eerst_gezien": "2026-11-27T06:40:22.520641+01:00",
       "laatst_gezien": "2026-11-27T08:45:22.982281+01:00"
+    },
+    "6069508": {
+      "afgemeld": "2026-11-27T11:15:22.930332+01:00",
+      "eerst_gezien": "2026-11-27T08:45:22.982281+01:00",
+      "laatst_gezien": "2026-11-27T11:00:42.100677+01:00"
     },
     "6069512": {
       "afgemeld": "2026-11-27T09:45:23.974698+01:00",
