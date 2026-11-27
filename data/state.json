@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T11:00:42.100677+01:00",
+      "laatst_gezien": "2026-11-27T11:05:17.371598+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -32,7 +32,7 @@
       "voorbij": 0
     },
     "6069508": {
-      "afwezig": 0,
+      "afwezig": 1,
       "eerst_gezien": "2026-11-27T08:45:22.982281+01:00",
       "geplaatst": {
         "advies": "",
@@ -85,7 +85,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T11:00:42.100677+01:00",
+      "laatst_gezien": "2026-11-27T11:05:17.371598+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -116,12 +116,74 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 12:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:00:42.100677+01:00",
+      "laatst_gezien": "2026-11-27T11:05:17.371598+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
       "stromen": [
         "Oost"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069521": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-27T11:05:17.371598+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "geen treinen",
+        "prognose": 795,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Terborg – Aalten",
+      "infoplus_publicatie": "2026-11-27T11:01:25+01:00",
+      "infoplus_start": "2026-11-27T10:59:00+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Gevolgen bekend",
+        "oorzaak": "defect wissel",
+        "situatie": "Door een defect wissel: tussen Terborg en Aalten rijden er geen treinen.",
+        "titel": "Arnhem - Winterswijk",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 13:15 uur."
+      },
+      "laatst_gezien": "2026-11-27T11:05:17.371598+01:00",
+      "opgelost": false,
+      "reden": "label Arriva",
+      "regio": "Achterhoek",
+      "stromen": [
+        "Oost"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069522": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-27T11:05:17.371598+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "geen treinen",
+        "prognose": 795,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Weert – Roermond",
+      "infoplus_publicatie": "2026-11-27T11:03:07+01:00",
+      "infoplus_start": "2026-11-27T10:54:00+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Gevolgen bekend",
+        "oorzaak": "overwegstoring",
+        "situatie": "Door een overwegstoring: tussen Weert en Roermond rijden er geen treinen.",
+        "titel": "Eindhoven - Sittard",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 13:15 uur."
+      },
+      "laatst_gezien": "2026-11-27T11:05:17.371598+01:00",
+      "opgelost": false,
+      "reden": "station(s): Echt, Susteren",
+      "regio": "Limburg",
+      "stromen": [
+        "Limburg"
       ],
       "type": "DISRUPTION",
       "voorbij": 0
@@ -151,7 +213,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T11:00:42.100677+01:00",
+      "laatst_gezien": "2026-11-27T11:05:17.371598+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -186,7 +248,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T11:00:42.100677+01:00",
+      "laatst_gezien": "2026-11-27T11:05:17.371598+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
