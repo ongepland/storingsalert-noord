@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T10:35:16.991953+01:00",
+      "laatst_gezien": "2026-11-27T10:40:22.373960+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -40,20 +40,20 @@
         "prognose": 675,
         "vervangend_vervoer": ""
       },
-      "getroffen": "Arnhem Centraal – Nijmegen; Nijmegen – Wijchen",
-      "infoplus_publicatie": "2026-11-27T10:22:40+01:00",
+      "getroffen": "Arnhem Centraal – Nijmegen",
+      "infoplus_publicatie": "2026-11-27T10:35:47+01:00",
       "infoplus_start": "2026-11-27T08:17:00+01:00",
       "inhoud": {
         "advies": "",
-        "fase": "Impact bekend",
+        "fase": "Storing voorbij",
         "oorzaak": "wisselstoring",
-        "situatie": "Door een wisselstoring: tussen Nijmegen en Arnhem Centraal rijden er minder treinen en tussen Nijmegen en Wijchen rijden er minder Sprinters.",
-        "titel": "Arnhem - Nijmegen; Nijmegen - Wijchen",
+        "situatie": "Tussen Nijmegen en Arnhem Centraal zijn de beperkingen voorbij.",
+        "titel": "Arnhem - Nijmegen",
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 11:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:10:21.647709+01:00",
-      "laatst_gezien": "2026-11-27T10:35:16.991953+01:00",
+      "laatst_gezien": "2026-11-27T10:40:22.373960+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -61,7 +61,7 @@
         "Limburg"
       ],
       "type": "DISRUPTION",
-      "voorbij": 0
+      "voorbij": 1
     },
     "6069510": {
       "afwezig": 0,
@@ -85,7 +85,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T10:35:16.991953+01:00",
+      "laatst_gezien": "2026-11-27T10:40:22.373960+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -116,7 +116,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 12:15 uur."
       },
-      "laatst_gezien": "2026-11-27T10:35:16.991953+01:00",
+      "laatst_gezien": "2026-11-27T10:40:22.373960+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -151,7 +151,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T10:35:16.991953+01:00",
+      "laatst_gezien": "2026-11-27T10:40:22.373960+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -186,7 +186,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T10:35:16.991953+01:00",
+      "laatst_gezien": "2026-11-27T10:40:22.373960+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
