@@ -22,7 +22,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 1:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-28T00:45:23.226210+01:00",
+      "laatst_gezien": "2026-11-28T00:50:21.936636+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -37,8 +37,8 @@
       "eerst_gezien": "2026-11-27T23:15:24.886586+01:00",
       "geplaatst": {
         "advies": "",
-        "impact": "vertraging",
-        "prognose": 75,
+        "impact": "voorbij",
+        "prognose": 90,
         "vervangend_vervoer": ""
       },
       "getroffen": "Venlo – Roermond",
@@ -54,18 +54,18 @@
         "verwachting": "De treinen rijden weer normaal rond 1:30 uur."
       },
       "laatst_geplaatst": "2026-11-27T23:20:21.805826+01:00",
-      "laatst_gezien": "2026-11-28T00:45:23.226210+01:00",
-      "opgelost": false,
+      "laatst_gezien": "2026-11-28T00:50:21.936636+01:00",
+      "opgelost": true,
       "reden": "label Arriva",
       "regio": "Limburg",
       "stromen": [
         "Limburg"
       ],
       "type": "DISRUPTION",
-      "voorbij": 1
+      "voorbij": 2
     },
     "6069545": {
-      "afwezig": 1,
+      "afwezig": 2,
       "eerst_gezien": "2026-11-28T00:25:19.597040+01:00",
       "geplaatst": {
         "advies": "",
@@ -121,7 +121,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T00:45:23.226210+01:00",
+      "laatst_gezien": "2026-11-28T00:50:21.936636+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -156,7 +156,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-28T00:45:23.226210+01:00",
+      "laatst_gezien": "2026-11-28T00:50:21.936636+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
