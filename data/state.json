@@ -22,7 +22,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T21:50:23.636776+01:00",
+      "laatst_gezien": "2026-11-27T21:55:17.028740+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -54,12 +54,43 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 1:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-27T21:50:23.636776+01:00",
+      "laatst_gezien": "2026-11-27T21:55:17.028740+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
       "stromen": [
         "Noord"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069543": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-27T21:55:17.028740+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "verstoring",
+        "prognose": 1395,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Zutphen – Hengelo; Almelo – Hengelo",
+      "infoplus_publicatie": "2026-11-27T21:53:07+01:00",
+      "infoplus_start": "2026-11-27T21:12:00+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Impact bekend",
+        "oorzaak": "seinstoring",
+        "situatie": "Door een seinstoring: tussen Zutphen en Hengelo is er een verstoring in de treindienst en tussen Almelo en Hengelo is er een verstoring in de treindienst.",
+        "titel": "Almelo - Hengelo; Zutphen - Hengelo",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 23:15 uur."
+      },
+      "laatst_gezien": "2026-11-27T21:55:17.028740+01:00",
+      "opgelost": false,
+      "reden": "label Arriva",
+      "regio": "Twente",
+      "stromen": [
+        "Oost"
       ],
       "type": "DISRUPTION",
       "voorbij": 0
@@ -89,7 +120,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T21:50:23.636776+01:00",
+      "laatst_gezien": "2026-11-27T21:55:17.028740+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -124,7 +155,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T21:50:23.636776+01:00",
+      "laatst_gezien": "2026-11-27T21:55:17.028740+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
