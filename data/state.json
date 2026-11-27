@@ -1,37 +1,5 @@
 {
   "actief": {
-    "6069510": {
-      "afwezig": 2,
-      "eerst_gezien": "2026-11-27T09:15:25.323683+01:00",
-      "geplaatst": {
-        "advies": "",
-        "impact": "voorbij",
-        "prognose": 0,
-        "vervangend_vervoer": "snelbussen"
-      },
-      "getroffen": "Maastricht – Heerlen",
-      "infoplus_publicatie": "2026-11-27T23:53:28+01:00",
-      "infoplus_start": "2026-11-27T09:08:00+01:00",
-      "inhoud": {
-        "advies": "",
-        "fase": "Storing voorbij",
-        "oorzaak": "beperkingen materieel",
-        "situatie": "Tussen Maastricht en Heerlen zijn de beperkingen voorbij.",
-        "titel": "Maastricht - Heerlen - Aachen",
-        "vervangend_vervoer": "er rijden nog snelbussen",
-        "verwachting": "De treinen rijden weer normaal rond zaterdag 28 november 0:00 uur."
-      },
-      "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-28T00:00:41.595181+01:00",
-      "opgelost": true,
-      "reden": "label Arriva",
-      "regio": "Limburg",
-      "stromen": [
-        "Limburg"
-      ],
-      "type": "DISRUPTION",
-      "voorbij": 2
-    },
     "6069525": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-27T11:25:24.673249+01:00",
@@ -54,7 +22,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 1:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-28T00:10:23.553339+01:00",
+      "laatst_gezien": "2026-11-28T00:15:21.419586+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -86,7 +54,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 1:30 uur."
       },
       "laatst_geplaatst": "2026-11-27T23:20:21.805826+01:00",
-      "laatst_gezien": "2026-11-28T00:10:23.553339+01:00",
+      "laatst_gezien": "2026-11-28T00:15:21.419586+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -121,7 +89,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T00:10:23.553339+01:00",
+      "laatst_gezien": "2026-11-28T00:15:21.419586+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -156,7 +124,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-28T00:10:23.553339+01:00",
+      "laatst_gezien": "2026-11-28T00:15:21.419586+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -185,6 +153,11 @@
       "afgemeld": "2026-11-27T11:15:22.930332+01:00",
       "eerst_gezien": "2026-11-27T08:45:22.982281+01:00",
       "laatst_gezien": "2026-11-27T11:00:42.100677+01:00"
+    },
+    "6069510": {
+      "afgemeld": "2026-11-28T00:15:21.419586+01:00",
+      "eerst_gezien": "2026-11-27T09:15:25.323683+01:00",
+      "laatst_gezien": "2026-11-28T00:00:41.595181+01:00"
     },
     "6069512": {
       "afgemeld": "2026-11-27T09:45:23.974698+01:00",
