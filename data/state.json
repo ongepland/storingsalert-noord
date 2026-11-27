@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -53,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -84,7 +84,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 12:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -115,7 +115,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -146,7 +146,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
@@ -178,7 +178,7 @@
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T11:30:33.885066+01:00",
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -210,7 +210,7 @@
         "verwachting": "Dit duurt tot ongeveer 15:45 uur."
       },
       "laatst_geplaatst": "2026-11-27T11:50:23.038112+01:00",
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -241,12 +241,74 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 14:00 uur."
       },
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Twente",
       "stromen": [
         "Oost"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069527": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "geen treinen",
+        "prognose": 795,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Tegelen – Roermond",
+      "infoplus_publicatie": "2026-11-27T11:59:15+01:00",
+      "infoplus_start": "2026-11-27T11:27:00+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Impact bekend",
+        "oorzaak": "wisselstoring",
+        "situatie": "Door een wisselstoring: tussen Tegelen en Roermond rijden er geen treinen.",
+        "titel": "Venlo - Roermond",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 13:15 uur."
+      },
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "opgelost": false,
+      "reden": "label Arriva",
+      "regio": "Limburg",
+      "stromen": [
+        "Limburg"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069528": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "verstoring",
+        "prognose": 855,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Eindhoven Centraal – Geldrop; Eindhoven Centraal – Helmond",
+      "infoplus_publicatie": "2026-11-27T11:57:15+01:00",
+      "infoplus_start": "2026-11-27T11:49:47+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Gevolgen bekend",
+        "oorzaak": "wisselstoring",
+        "situatie": "Door een wisselstoring: tussen Eindhoven Centraal en Geldrop is er een verstoring in de treindienst en tussen Eindhoven Centraal en Helmond is er een verstoring in de treindienst.",
+        "titel": "Eindhoven - Sittard; Eindhoven - Venlo",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 14:15 uur."
+      },
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "opgelost": false,
+      "reden": "station(s): Echt, Susteren",
+      "regio": "Limburg",
+      "stromen": [
+        "Limburg"
       ],
       "type": "DISRUPTION",
       "voorbij": 0
@@ -276,7 +338,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -311,7 +373,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T11:55:17.083253+01:00",
+      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
