@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -53,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -85,7 +85,7 @@
         "verwachting": "Dit duurt tot ongeveer 13:45 uur."
       },
       "laatst_geplaatst": "2026-11-27T12:40:10.739068+01:00",
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -117,7 +117,7 @@
         "verwachting": "Dit duurt tot ongeveer 15:45 uur."
       },
       "laatst_geplaatst": "2026-11-27T11:50:23.038112+01:00",
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -136,20 +136,20 @@
         "prognose": 930,
         "vervangend_vervoer": ""
       },
-      "getroffen": "Tegelen – Roermond",
-      "infoplus_publicatie": "2026-11-27T12:54:52+01:00",
+      "getroffen": "Tegelen – Swalmen",
+      "infoplus_publicatie": "2026-11-27T13:18:28+01:00",
       "infoplus_start": "2026-11-27T11:27:00+01:00",
       "inhoud": {
         "advies": "Maak gebruik van lijnbus 66 tussen Tegelen en Roermond.",
         "fase": "Impact bekend",
         "oorzaak": "wisselstoring",
-        "situatie": "Door een wisselstoring: tussen Tegelen en Roermond rijden er geen treinen.",
+        "situatie": "Door een wisselstoring: tussen Tegelen en Swalmen rijden er geen treinen.",
         "titel": "Venlo - Roermond",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt ten minste tot 15:30 uur."
       },
       "laatst_geplaatst": "2026-11-27T13:00:47.307788+01:00",
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -165,11 +165,11 @@
       "geplaatst": {
         "advies": "",
         "impact": "geen treinen",
-        "prognose": 795,
+        "prognose": 855,
         "vervangend_vervoer": ""
       },
       "getroffen": "Eindhoven Centraal – Weert",
-      "infoplus_publicatie": "2026-11-27T12:49:19+01:00",
+      "infoplus_publicatie": "2026-11-27T13:16:16+01:00",
       "infoplus_start": "2026-11-27T11:49:47+01:00",
       "inhoud": {
         "advies": "",
@@ -178,10 +178,10 @@
         "situatie": "Door een wisselstoring: tussen Eindhoven Centraal en Weert rijden er geen treinen.",
         "titel": "Eindhoven - Sittard",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt ten minste tot 13:15 uur."
+        "verwachting": "Dit duurt ten minste tot 14:15 uur."
       },
-      "laatst_geplaatst": "2026-11-27T12:55:17.110809+01:00",
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_geplaatst": "2026-11-27T13:20:25.874026+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
@@ -212,7 +212,7 @@
         "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 15:45 uur."
       },
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Friesland",
@@ -231,19 +231,19 @@
         "prognose": 900,
         "vervangend_vervoer": ""
       },
-      "getroffen": "Groningen – Delfzijl",
-      "infoplus_publicatie": "2026-11-27T13:07:12+01:00",
+      "getroffen": "Sauwerd – Delfzijl",
+      "infoplus_publicatie": "2026-11-27T13:16:03+01:00",
       "infoplus_start": "2026-11-27T12:48:00+01:00",
       "inhoud": {
         "advies": "",
         "fase": "Gevolgen bekend",
         "oorzaak": "sein- en wisselstoring",
-        "situatie": "Door een sein- en wisselstoring: tussen Groningen en Delfzijl rijden er geen treinen.",
+        "situatie": "Door een sein- en wisselstoring: tussen Sauwerd en Delfzijl rijden er geen treinen.",
         "titel": "Groningen - Delfzijl",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 15:00 uur."
       },
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -278,7 +278,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -313,7 +313,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T13:15:23.170534+01:00",
+      "laatst_gezien": "2026-11-27T13:20:25.874026+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
