@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -53,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -69,11 +69,11 @@
       "geplaatst": {
         "advies": "",
         "impact": "geen treinen",
-        "prognose": 735,
+        "prognose": 795,
         "vervangend_vervoer": ""
       },
       "getroffen": "Vorden – Lichtenvoorde-Groenlo",
-      "infoplus_publicatie": "2026-11-27T10:24:24+01:00",
+      "infoplus_publicatie": "2026-11-27T12:03:28+01:00",
       "infoplus_start": "2026-11-27T10:01:00+01:00",
       "inhoud": {
         "advies": "",
@@ -82,9 +82,10 @@
         "situatie": "Door een overwegstoring: tussen Vorden en Lichtenvoorde-Groenlo rijden er geen treinen.",
         "titel": "Zutphen - Winterswijk",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 12:15 uur."
+        "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_geplaatst": "2026-11-27T12:05:17.634341+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -115,7 +116,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -146,7 +147,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
@@ -178,7 +179,7 @@
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T11:30:33.885066+01:00",
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -197,20 +198,20 @@
         "prognose": 945,
         "vervangend_vervoer": "stopbussen"
       },
-      "getroffen": "Groningen – Zuidbroek",
-      "infoplus_publicatie": "2026-11-27T11:52:09+01:00",
+      "getroffen": "Groningen Europapark – Zuidbroek",
+      "infoplus_publicatie": "2026-11-27T12:02:27+01:00",
       "infoplus_start": "2026-11-27T11:12:00+01:00",
       "inhoud": {
         "advies": "",
         "fase": "Vervangend vervoer",
         "oorzaak": "voertuig op het spoor",
-        "situatie": "Door een voertuig op het spoor: tussen Groningen en Zuidbroek rijden er geen treinen.",
+        "situatie": "Door een voertuig op het spoor: tussen Groningen Europapark en Zuidbroek rijden er geen treinen.",
         "titel": "Groningen - Bad Nieuweschans; Groningen - Veendam",
         "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 15:45 uur."
       },
       "laatst_geplaatst": "2026-11-27T11:50:23.038112+01:00",
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -241,7 +242,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 14:00 uur."
       },
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Twente",
@@ -272,7 +273,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -287,28 +288,60 @@
       "eerst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "geplaatst": {
         "advies": "",
-        "impact": "verstoring",
+        "impact": "minder treinen",
         "prognose": 855,
         "vervangend_vervoer": ""
       },
-      "getroffen": "Eindhoven Centraal – Geldrop; Eindhoven Centraal – Helmond",
-      "infoplus_publicatie": "2026-11-27T11:57:15+01:00",
+      "getroffen": "Eindhoven Centraal – Weert",
+      "infoplus_publicatie": "2026-11-27T12:00:51+01:00",
       "infoplus_start": "2026-11-27T11:49:47+01:00",
       "inhoud": {
         "advies": "",
-        "fase": "Gevolgen bekend",
+        "fase": "Impact bekend",
         "oorzaak": "wisselstoring",
-        "situatie": "Door een wisselstoring: tussen Eindhoven Centraal en Geldrop is er een verstoring in de treindienst en tussen Eindhoven Centraal en Helmond is er een verstoring in de treindienst.",
-        "titel": "Eindhoven - Sittard; Eindhoven - Venlo",
+        "situatie": "Door een wisselstoring: tussen Eindhoven Centraal en Weert rijden er veel minder treinen.",
+        "titel": "Eindhoven - Sittard",
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 14:15 uur."
       },
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_geplaatst": "2026-11-27T12:05:17.634341+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "opgelost": false,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
       "stromen": [
         "Limburg"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069529": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-27T12:05:17.634341+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "minder treinen",
+        "prognose": 945,
+        "vervangend_vervoer": "stopbussen"
+      },
+      "getroffen": "Groningen Europapark – Groningen",
+      "infoplus_publicatie": "2026-11-27T12:02:54+01:00",
+      "infoplus_start": "2026-11-27T11:12:00+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Vervangend vervoer",
+        "oorzaak": "voertuig op het spoor",
+        "situatie": "Door een voertuig op het spoor: tussen Groningen Europapark en Groningen rijden er veel minder treinen.",
+        "titel": "Groningen Europapark - Leeuwarden",
+        "vervangend_vervoer": "er rijden stopbussen",
+        "verwachting": "Dit duurt tot ongeveer 15:45 uur."
+      },
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
+      "opgelost": false,
+      "reden": "label Arriva",
+      "regio": "Friesland",
+      "stromen": [
+        "Noord"
       ],
       "type": "DISRUPTION",
       "voorbij": 0
@@ -338,7 +371,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -373,7 +406,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T12:00:44.499856+01:00",
+      "laatst_gezien": "2026-11-27T12:05:17.634341+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
