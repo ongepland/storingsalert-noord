@@ -10,19 +10,19 @@
         "vervangend_vervoer": "snelbussen"
       },
       "getroffen": "Maastricht – Heerlen",
-      "infoplus_publicatie": "2026-11-27T11:29:29+01:00",
+      "infoplus_publicatie": "2026-11-27T23:53:28+01:00",
       "infoplus_start": "2026-11-27T09:08:00+01:00",
       "inhoud": {
         "advies": "",
-        "fase": "Vervangend vervoer",
+        "fase": "Storing voorbij",
         "oorzaak": "beperkingen materieel",
-        "situatie": "Door beperkingen in de materieelinzet: tussen Maastricht en Heerlen rijden er geen Sneltreinen.",
+        "situatie": "Tussen Maastricht en Heerlen zijn de beperkingen voorbij.",
         "titel": "Maastricht - Heerlen - Aachen",
-        "vervangend_vervoer": "er rijden snelbussen",
-        "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
+        "vervangend_vervoer": "er rijden nog snelbussen",
+        "verwachting": "De treinen rijden weer normaal rond zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T23:50:25.410346+01:00",
+      "laatst_gezien": "2026-11-27T23:55:20.383829+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -30,7 +30,7 @@
         "Limburg"
       ],
       "type": "DISRUPTION",
-      "voorbij": 0
+      "voorbij": 1
     },
     "6069525": {
       "afwezig": 0,
@@ -54,7 +54,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 1:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-27T23:50:25.410346+01:00",
+      "laatst_gezien": "2026-11-27T23:55:20.383829+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -86,7 +86,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 1:30 uur."
       },
       "laatst_geplaatst": "2026-11-27T23:20:21.805826+01:00",
-      "laatst_gezien": "2026-11-27T23:50:25.410346+01:00",
+      "laatst_gezien": "2026-11-27T23:55:20.383829+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -121,7 +121,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T23:50:25.410346+01:00",
+      "laatst_gezien": "2026-11-27T23:55:20.383829+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -156,7 +156,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T23:50:25.410346+01:00",
+      "laatst_gezien": "2026-11-27T23:55:20.383829+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
