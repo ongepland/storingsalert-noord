@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T18:00:49.212784+01:00",
+      "laatst_gezien": "2026-11-27T18:05:16.911098+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -53,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T18:00:49.212784+01:00",
+      "laatst_gezien": "2026-11-27T18:05:16.911098+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -85,7 +85,7 @@
         "verwachting": "Dit duurt tot ongeveer 23:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T14:45:25.406660+01:00",
-      "laatst_gezien": "2026-11-27T18:00:49.212784+01:00",
+      "laatst_gezien": "2026-11-27T18:05:16.911098+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -105,19 +105,19 @@
         "vervangend_vervoer": "stopbussen"
       },
       "getroffen": "Sauwerd – Delfzijl",
-      "infoplus_publicatie": "2026-11-27T17:41:07+01:00",
+      "infoplus_publicatie": "2026-11-27T18:02:24+01:00",
       "infoplus_start": "2026-11-27T12:48:00+01:00",
       "inhoud": {
         "advies": "",
-        "fase": "Vervangend vervoer",
+        "fase": "Storing voorbij",
         "oorzaak": "sein- en wisselstoring",
-        "situatie": "Door een sein- en wisselstoring: tussen Sauwerd en Delfzijl rijden er geen treinen.",
+        "situatie": "Tussen Sauwerd en Delfzijl zijn de beperkingen voorbij.",
         "titel": "Groningen - Delfzijl",
-        "vervangend_vervoer": "er rijden stopbussen",
-        "verwachting": "Dit duurt tot ongeveer 18:15 uur."
+        "vervangend_vervoer": "er rijden nog stopbussen",
+        "verwachting": "De treinen rijden weer normaal rond 18:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T16:20:24.410001+01:00",
-      "laatst_gezien": "2026-11-27T18:00:49.212784+01:00",
+      "laatst_gezien": "2026-11-27T18:05:16.911098+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -125,7 +125,7 @@
         "Noord"
       ],
       "type": "DISRUPTION",
-      "voorbij": 0
+      "voorbij": 1
     },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
@@ -152,7 +152,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T18:00:49.212784+01:00",
+      "laatst_gezien": "2026-11-27T18:05:16.911098+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -187,7 +187,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T18:00:49.212784+01:00",
+      "laatst_gezien": "2026-11-27T18:05:16.911098+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
