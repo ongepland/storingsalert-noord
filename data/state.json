@@ -1,7 +1,7 @@
 {
   "actief": {
     "6069506": {
-      "afwezig": 1,
+      "afwezig": 2,
       "eerst_gezien": "2026-11-27T07:25:19.681115+01:00",
       "geplaatst": {
         "advies": "",
@@ -53,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T20:55:21.029620+01:00",
+      "laatst_gezien": "2026-11-27T21:00:42.913732+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -85,7 +85,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 1:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-27T20:55:21.029620+01:00",
+      "laatst_gezien": "2026-11-27T21:00:42.913732+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -120,7 +120,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T20:55:21.029620+01:00",
+      "laatst_gezien": "2026-11-27T21:00:42.913732+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -155,7 +155,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T20:55:21.029620+01:00",
+      "laatst_gezien": "2026-11-27T21:00:42.913732+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
