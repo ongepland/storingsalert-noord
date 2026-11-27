@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -53,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -85,7 +85,7 @@
         "verwachting": "De treinen rijden weer normaal rond 13:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T12:05:17.634341+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -101,11 +101,11 @@
       "geplaatst": {
         "advies": "",
         "impact": "geen treinen",
-        "prognose": 795,
+        "prognose": 825,
         "vervangend_vervoer": ""
       },
       "getroffen": "Terborg – Aalten",
-      "infoplus_publicatie": "2026-11-27T11:34:12+01:00",
+      "infoplus_publicatie": "2026-11-27T12:38:29+01:00",
       "infoplus_start": "2026-11-27T10:59:00+01:00",
       "inhoud": {
         "advies": "",
@@ -114,9 +114,10 @@
         "situatie": "Door een defect wissel: tussen Terborg en Aalten rijden er geen treinen.",
         "titel": "Arnhem - Winterswijk",
         "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 13:15 uur."
+        "verwachting": "Dit duurt tot ongeveer 13:45 uur."
       },
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_geplaatst": "2026-11-27T12:40:10.739068+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -136,7 +137,7 @@
         "vervangend_vervoer": ""
       },
       "getroffen": "Weert – Roermond",
-      "infoplus_publicatie": "2026-11-27T12:25:48+01:00",
+      "infoplus_publicatie": "2026-11-27T12:36:27+01:00",
       "infoplus_start": "2026-11-27T10:54:00+01:00",
       "inhoud": {
         "advies": "",
@@ -145,10 +146,10 @@
         "situatie": "Tussen Weert en Roermond zijn de beperkingen voorbij.",
         "titel": "Eindhoven - Sittard",
         "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 12:45 uur."
+        "verwachting": "De treinen rijden weer normaal rond 13:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T12:15:23.773585+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": true,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
@@ -156,7 +157,7 @@
         "Limburg"
       ],
       "type": "DISRUPTION",
-      "voorbij": 2
+      "voorbij": 3
     },
     "6069523": {
       "afwezig": 0,
@@ -180,7 +181,7 @@
         "verwachting": "De treinen rijden weer normaal rond 13:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T11:30:33.885066+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -212,7 +213,7 @@
         "verwachting": "Dit duurt tot ongeveer 15:45 uur."
       },
       "laatst_geplaatst": "2026-11-27T11:50:23.038112+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -244,7 +245,7 @@
         "verwachting": "Dit duurt tot ongeveer 13:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T12:15:23.773585+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Twente",
@@ -275,7 +276,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -307,7 +308,7 @@
         "verwachting": "Dit duurt tot ongeveer 14:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T12:05:17.634341+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
@@ -338,7 +339,7 @@
         "vervangend_vervoer": "er rijden stopbussen",
         "verwachting": "Dit duurt tot ongeveer 15:45 uur."
       },
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Friesland",
@@ -373,7 +374,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -408,7 +409,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T12:35:16.607825+01:00",
+      "laatst_gezien": "2026-11-27T12:40:10.739068+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
