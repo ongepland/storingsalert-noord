@@ -21,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 21:00 uur."
       },
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -53,7 +53,7 @@
         "verwachting": "Dit duurt tot ongeveer zaterdag 28 november 0:00 uur."
       },
       "laatst_geplaatst": "2026-11-27T10:30:37.820117+01:00",
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -84,7 +84,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 12:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -115,7 +115,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Achterhoek",
@@ -146,7 +146,7 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "opgelost": false,
       "reden": "station(s): Echt, Susteren",
       "regio": "Limburg",
@@ -177,12 +177,43 @@
         "vervangend_vervoer": "",
         "verwachting": "Dit duurt tot ongeveer 13:15 uur."
       },
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
       "stromen": [
         "Limburg"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069525": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-27T11:25:24.673249+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "geen treinen",
+        "prognose": 945,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Groningen – Hoogezand-Sappemeer",
+      "infoplus_publicatie": "2026-11-27T11:20:13+01:00",
+      "infoplus_start": "2026-11-27T11:12:00+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Gevolgen bekend",
+        "oorzaak": "aanrijding",
+        "situatie": "Door een aanrijding: tussen Groningen en Hoogezand-Sappemeer rijden er geen treinen.",
+        "titel": "Groningen - Veendam",
+        "vervangend_vervoer": "",
+        "verwachting": "Dit duurt tot ongeveer 15:45 uur."
+      },
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
+      "opgelost": false,
+      "reden": "label Arriva",
+      "regio": "Groningen",
+      "stromen": [
+        "Noord"
       ],
       "type": "DISRUPTION",
       "voorbij": 0
@@ -212,7 +243,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -247,7 +278,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-27T11:20:23.255476+01:00",
+      "laatst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
