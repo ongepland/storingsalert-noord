@@ -1,37 +1,5 @@
 {
   "actief": {
-    "6069556": {
-      "afwezig": 2,
-      "eerst_gezien": "2026-11-28T13:25:16.019329+01:00",
-      "geplaatst": {
-        "advies": "",
-        "impact": "geen treinen",
-        "prognose": 975,
-        "vervangend_vervoer": ""
-      },
-      "getroffen": "Heerlen – Herzogenrath",
-      "infoplus_publicatie": "2026-11-28T14:11:22+01:00",
-      "infoplus_start": "2026-11-28T13:08:38+01:00",
-      "inhoud": {
-        "advies": "",
-        "fase": "Impact bekend",
-        "oorzaak": "uitloop werkzaamheden",
-        "situatie": "Door uitloop van werkzaamheden: tussen Heerlen en Herzogenrath rijden er geen treinen.",
-        "titel": "Heerlen - Aachen Hbf",
-        "vervangend_vervoer": "",
-        "verwachting": "Dit duurt tot ongeveer 16:15 uur."
-      },
-      "laatst_geplaatst": "2026-11-28T14:15:22.974856+01:00",
-      "laatst_gezien": "2026-11-28T16:15:23.071601+01:00",
-      "opgelost": false,
-      "reden": "label Arriva",
-      "regio": "Limburg",
-      "stromen": [
-        "Limburg"
-      ],
-      "type": "DISRUPTION",
-      "voorbij": 0
-    },
     "6069557": {
       "afwezig": 0,
       "eerst_gezien": "2026-11-28T14:05:17.032469+01:00",
@@ -53,7 +21,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 18:30 uur."
       },
-      "laatst_gezien": "2026-11-28T16:20:37.789533+01:00",
+      "laatst_gezien": "2026-11-28T16:25:16.515604+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Vechtdallijnen",
@@ -88,7 +56,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T16:20:37.789533+01:00",
+      "laatst_gezien": "2026-11-28T16:25:16.515604+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -121,7 +89,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T16:20:37.789533+01:00",
+      "laatst_gezien": "2026-11-28T16:25:16.515604+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -168,6 +136,11 @@
       "afgemeld": "2026-11-28T00:55:15.772145+01:00",
       "eerst_gezien": "2026-11-28T00:25:19.597040+01:00",
       "laatst_gezien": "2026-11-28T00:40:23.084799+01:00"
+    },
+    "6069556": {
+      "afgemeld": "2026-11-28T16:25:16.515604+01:00",
+      "eerst_gezien": "2026-11-28T13:25:16.019329+01:00",
+      "laatst_gezien": "2026-11-28T16:15:23.071601+01:00"
     },
     "d0894a7f-de35-4ce3-b026-ae3768397a22": {
       "afgemeld": "2026-11-28T03:10:23.506353+01:00",
