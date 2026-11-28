@@ -22,7 +22,7 @@
         "verwachting": "De treinen rijden weer normaal rond 1:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-28T03:40:22.589853+01:00",
+      "laatst_gezien": "2026-11-28T03:45:21.539447+01:00",
       "opgelost": true,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -30,7 +30,7 @@
         "Noord"
       ],
       "type": "DISRUPTION",
-      "voorbij": 36
+      "voorbij": 37
     },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
@@ -57,7 +57,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T03:40:22.589853+01:00",
+      "laatst_gezien": "2026-11-28T03:45:21.539447+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -90,7 +90,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T03:40:22.589853+01:00",
+      "laatst_gezien": "2026-11-28T03:45:21.539447+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
