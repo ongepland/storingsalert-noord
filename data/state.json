@@ -22,12 +22,43 @@
         "verwachting": "Dit duurt tot ongeveer 15:00 uur."
       },
       "laatst_geplaatst": "2026-11-28T13:30:33.734522+01:00",
-      "laatst_gezien": "2026-11-28T14:00:42.837682+01:00",
+      "laatst_gezien": "2026-11-28T14:05:17.032469+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
       "stromen": [
         "Limburg"
+      ],
+      "type": "DISRUPTION",
+      "voorbij": 0
+    },
+    "6069557": {
+      "afwezig": 0,
+      "eerst_gezien": "2026-11-28T14:05:17.032469+01:00",
+      "geplaatst": {
+        "advies": "",
+        "impact": "minder treinen",
+        "prognose": 1110,
+        "vervangend_vervoer": ""
+      },
+      "getroffen": "Almelo – Hardenberg",
+      "infoplus_publicatie": "2026-11-28T14:01:42+01:00",
+      "infoplus_start": "2026-11-28T14:00:00+01:00",
+      "inhoud": {
+        "advies": "",
+        "fase": "Impact bekend",
+        "oorzaak": "beperkingen materieel",
+        "situatie": "Door beperkingen in de materieelinzet: tussen Almelo en Hardenberg rijden er minder stoptreinen.",
+        "titel": "Almelo - Hardenberg",
+        "vervangend_vervoer": "",
+        "verwachting": "De treinen rijden weer normaal rond 18:30 uur."
+      },
+      "laatst_gezien": "2026-11-28T14:05:17.032469+01:00",
+      "opgelost": false,
+      "reden": "label Arriva",
+      "regio": "Vechtdallijnen",
+      "stromen": [
+        "Oost"
       ],
       "type": "DISRUPTION",
       "voorbij": 0
@@ -57,7 +88,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T14:00:42.837682+01:00",
+      "laatst_gezien": "2026-11-28T14:05:17.032469+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -90,7 +121,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T14:00:42.837682+01:00",
+      "laatst_gezien": "2026-11-28T14:05:17.032469+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
