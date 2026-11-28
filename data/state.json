@@ -1,36 +1,5 @@
 {
   "actief": {
-    "6069557": {
-      "afwezig": 2,
-      "eerst_gezien": "2026-11-28T14:05:17.032469+01:00",
-      "geplaatst": {
-        "advies": "",
-        "impact": "voorbij",
-        "prognose": 1110,
-        "vervangend_vervoer": ""
-      },
-      "getroffen": "Almelo – Hardenberg",
-      "infoplus_publicatie": "2026-11-28T18:17:43+01:00",
-      "infoplus_start": "2026-11-28T14:00:00+01:00",
-      "inhoud": {
-        "advies": "",
-        "fase": "Storing voorbij",
-        "oorzaak": "beperkingen materieel",
-        "situatie": "Tussen Almelo en Hardenberg zijn de beperkingen voorbij.",
-        "titel": "Almelo - Hardenberg",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 18:30 uur."
-      },
-      "laatst_gezien": "2026-11-28T18:25:22.039751+01:00",
-      "opgelost": true,
-      "reden": "label Arriva",
-      "regio": "Vechtdallijnen",
-      "stromen": [
-        "Oost"
-      ],
-      "type": "DISRUPTION",
-      "voorbij": 2
-    },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
       "alle_regios": false,
@@ -56,7 +25,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T18:35:25.272125+01:00",
+      "laatst_gezien": "2026-11-28T18:40:21.294311+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -89,7 +58,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T18:35:25.272125+01:00",
+      "laatst_gezien": "2026-11-28T18:40:21.294311+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -136,6 +105,11 @@
       "afgemeld": "2026-11-28T16:25:16.515604+01:00",
       "eerst_gezien": "2026-11-28T13:25:16.019329+01:00",
       "laatst_gezien": "2026-11-28T16:15:23.071601+01:00"
+    },
+    "6069557": {
+      "afgemeld": "2026-11-28T18:40:21.294311+01:00",
+      "eerst_gezien": "2026-11-28T14:05:17.032469+01:00",
+      "laatst_gezien": "2026-11-28T18:25:22.039751+01:00"
     },
     "d0894a7f-de35-4ce3-b026-ae3768397a22": {
       "afgemeld": "2026-11-28T03:10:23.506353+01:00",
