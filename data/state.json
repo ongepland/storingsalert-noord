@@ -22,7 +22,7 @@
         "verwachting": "Dit duurt tot ongeveer 16:15 uur."
       },
       "laatst_geplaatst": "2026-11-28T14:15:22.974856+01:00",
-      "laatst_gezien": "2026-11-28T15:30:33.447051+01:00",
+      "laatst_gezien": "2026-11-28T15:35:15.563165+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -53,7 +53,7 @@
         "vervangend_vervoer": "",
         "verwachting": "De treinen rijden weer normaal rond 18:30 uur."
       },
-      "laatst_gezien": "2026-11-28T15:30:33.447051+01:00",
+      "laatst_gezien": "2026-11-28T15:35:15.563165+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Vechtdallijnen",
@@ -88,7 +88,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T15:30:33.447051+01:00",
+      "laatst_gezien": "2026-11-28T15:35:15.563165+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -121,7 +121,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T15:30:33.447051+01:00",
+      "laatst_gezien": "2026-11-28T15:35:15.563165+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -148,11 +148,6 @@
       "afgemeld": "2026-11-28T05:15:22.690948+01:00",
       "eerst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "laatst_gezien": "2026-11-28T05:00:42.089109+01:00"
-    },
-    "6069529": {
-      "afgemeld": "2026-11-27T15:30:35.576966+01:00",
-      "eerst_gezien": "2026-11-27T12:05:17.634341+01:00",
-      "laatst_gezien": "2026-11-27T15:15:24.809337+01:00"
     },
     "6069530": {
       "afgemeld": "2026-11-27T18:25:21.182785+01:00",
