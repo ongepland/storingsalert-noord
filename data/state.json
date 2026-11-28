@@ -1,7 +1,7 @@
 {
   "actief": {
     "6069525": {
-      "afwezig": 1,
+      "afwezig": 2,
       "eerst_gezien": "2026-11-27T11:25:24.673249+01:00",
       "geplaatst": {
         "advies": "",
@@ -57,7 +57,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T05:05:17.845257+01:00",
+      "laatst_gezien": "2026-11-28T05:10:23.125164+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -90,7 +90,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T05:05:17.845257+01:00",
+      "laatst_gezien": "2026-11-28T05:10:23.125164+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
