@@ -22,7 +22,7 @@
         "verwachting": "De treinen rijden weer normaal rond 1:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-28T03:05:16.372145+01:00",
+      "laatst_gezien": "2026-11-28T03:10:23.506353+01:00",
       "opgelost": true,
       "reden": "label Arriva",
       "regio": "Groningen",
@@ -30,7 +30,7 @@
         "Noord"
       ],
       "type": "DISRUPTION",
-      "voorbij": 28
+      "voorbij": 29
     },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
@@ -57,7 +57,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T03:05:16.372145+01:00",
+      "laatst_gezien": "2026-11-28T03:10:23.506353+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -90,49 +90,12 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T03:05:16.372145+01:00",
+      "laatst_gezien": "2026-11-28T03:10:23.506353+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
       "regio": "",
       "stromen": [],
-      "type": "CALAMITY",
-      "voorbij": 0
-    },
-    "d0894a7f-de35-4ce3-b026-ae3768397a22": {
-      "afwezig": 11,
-      "alle_regios": false,
-      "betreft": "ja",
-      "eerst_gezien": "2026-11-25T08:10:07.372351+01:00",
-      "geplaatst": {
-        "advies": "",
-        "impact": "geen treinen",
-        "prognose": null,
-        "vervangend_vervoer": ""
-      },
-      "getroffen": "",
-      "herkend": "Heerlen, Sittard",
-      "infoplus_publicatie": "",
-      "infoplus_start": "",
-      "inhoud": {
-        "advies": "",
-        "fase": "",
-        "oorzaak": "",
-        "situatie": "Door werkzaamheden op zaterdag 28 t/m maandag 30 november rijden er tussen Sittard en Heerlen geen treinen maar bussen.",
-        "titel": "Werkzaamheden Sittard-Heerlen op 28 t/m 30 november",
-        "vervangend_vervoer": "",
-        "verwachting": ""
-      },
-      "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
-      "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-28T02:15:20.086821+01:00",
-      "link": "https://www.ns.nl/reisplanner/#/",
-      "opgelost": false,
-      "reden": "calamiteit (wordt altijd gemeld)",
-      "regio": "Limburg",
-      "stromen": [
-        "Limburg"
-      ],
       "type": "CALAMITY",
       "voorbij": 0
     }
@@ -224,6 +187,11 @@
       "afgemeld": "2026-11-28T00:55:15.772145+01:00",
       "eerst_gezien": "2026-11-28T00:25:19.597040+01:00",
       "laatst_gezien": "2026-11-28T00:40:23.084799+01:00"
+    },
+    "d0894a7f-de35-4ce3-b026-ae3768397a22": {
+      "afgemeld": "2026-11-28T03:10:23.506353+01:00",
+      "eerst_gezien": "2026-11-25T08:10:07.372351+01:00",
+      "laatst_gezien": "2026-11-28T02:15:20.086821+01:00"
     }
   }
 }
