@@ -1,37 +1,5 @@
 {
   "actief": {
-    "6069525": {
-      "afwezig": 2,
-      "eerst_gezien": "2026-11-27T11:25:24.673249+01:00",
-      "geplaatst": {
-        "advies": "",
-        "impact": "voorbij",
-        "prognose": 75,
-        "vervangend_vervoer": "stopbussen"
-      },
-      "getroffen": "Groningen Europapark – Zuidbroek",
-      "infoplus_publicatie": "2026-11-28T00:58:58+01:00",
-      "infoplus_start": "2026-11-27T11:12:00+01:00",
-      "inhoud": {
-        "advies": "",
-        "fase": "Storing voorbij",
-        "oorzaak": "voertuig op het spoor",
-        "situatie": "Tussen Groningen Europapark en Zuidbroek zijn de beperkingen voorbij.",
-        "titel": "Groningen - Bad Nieuweschans; Groningen - Veendam",
-        "vervangend_vervoer": "er rijden nog stopbussen",
-        "verwachting": "De treinen rijden weer normaal rond 1:15 uur."
-      },
-      "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-28T05:00:42.089109+01:00",
-      "opgelost": true,
-      "reden": "label Arriva",
-      "regio": "Groningen",
-      "stromen": [
-        "Noord"
-      ],
-      "type": "DISRUPTION",
-      "voorbij": 53
-    },
     "72d2c6b7-bd7f-4c0e-9e6a-7cf67c1e2e35": {
       "afwezig": 0,
       "alle_regios": false,
@@ -57,7 +25,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T05:10:23.125164+01:00",
+      "laatst_gezien": "2026-11-28T05:15:22.690948+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -90,7 +58,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T05:10:23.125164+01:00",
+      "laatst_gezien": "2026-11-28T05:15:22.690948+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -147,6 +115,11 @@
       "afgemeld": "2026-11-27T12:55:17.110809+01:00",
       "eerst_gezien": "2026-11-27T11:20:23.255476+01:00",
       "laatst_gezien": "2026-11-27T12:40:27.324062+01:00"
+    },
+    "6069525": {
+      "afgemeld": "2026-11-28T05:15:22.690948+01:00",
+      "eerst_gezien": "2026-11-27T11:25:24.673249+01:00",
+      "laatst_gezien": "2026-11-28T05:00:42.089109+01:00"
     },
     "6069526": {
       "afgemeld": "2026-11-27T13:10:26.391669+01:00",
