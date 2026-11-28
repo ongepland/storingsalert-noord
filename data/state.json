@@ -25,7 +25,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T09:00:41.633529+01:00",
+      "laatst_gezien": "2026-11-28T09:05:19.527868+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -58,7 +58,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T09:00:41.633529+01:00",
+      "laatst_gezien": "2026-11-28T09:05:19.527868+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -71,11 +71,6 @@
   "fout": false,
   "maand": "2026-11",
   "recent": {
-    "6069504": {
-      "afgemeld": "2026-11-27T09:00:43.091247+01:00",
-      "eerst_gezien": "2026-11-27T06:40:22.520641+01:00",
-      "laatst_gezien": "2026-11-27T08:45:22.982281+01:00"
-    },
     "6069506": {
       "afgemeld": "2026-11-27T21:05:17.505292+01:00",
       "eerst_gezien": "2026-11-27T07:25:19.681115+01:00",
