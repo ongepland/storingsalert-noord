@@ -22,44 +22,12 @@
         "verwachting": "De treinen rijden weer normaal rond 1:15 uur."
       },
       "laatst_geplaatst": "2026-11-27T18:40:22.991225+01:00",
-      "laatst_gezien": "2026-11-28T01:05:19.905811+01:00",
+      "laatst_gezien": "2026-11-28T01:09:12.685891+01:00",
       "opgelost": true,
       "reden": "label Arriva",
       "regio": "Groningen",
       "stromen": [
         "Noord"
-      ],
-      "type": "DISRUPTION",
-      "voorbij": 2
-    },
-    "6069544": {
-      "afwezig": 2,
-      "eerst_gezien": "2026-11-27T23:15:24.886586+01:00",
-      "geplaatst": {
-        "advies": "",
-        "impact": "voorbij",
-        "prognose": 90,
-        "vervangend_vervoer": ""
-      },
-      "getroffen": "Venlo – Roermond",
-      "infoplus_publicatie": "2026-11-28T00:43:16+01:00",
-      "infoplus_start": "2026-11-27T23:02:20+01:00",
-      "inhoud": {
-        "advies": "",
-        "fase": "Storing voorbij",
-        "oorzaak": "overwegstoring",
-        "situatie": "Tussen Venlo en Roermond zijn de beperkingen voorbij.",
-        "titel": "Venlo - Roermond",
-        "vervangend_vervoer": "",
-        "verwachting": "De treinen rijden weer normaal rond 1:30 uur."
-      },
-      "laatst_geplaatst": "2026-11-27T23:20:21.805826+01:00",
-      "laatst_gezien": "2026-11-28T00:55:15.772145+01:00",
-      "opgelost": true,
-      "reden": "label Arriva",
-      "regio": "Limburg",
-      "stromen": [
-        "Limburg"
       ],
       "type": "DISRUPTION",
       "voorbij": 3
@@ -89,7 +57,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T01:05:19.905811+01:00",
+      "laatst_gezien": "2026-11-28T01:09:12.685891+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -124,7 +92,7 @@
       },
       "laatst_geplaatst": "2026-11-26T12:40:22.886299+01:00",
       "laatst_gewijzigd": "2026-11-25T08:25:21.218096+01:00",
-      "laatst_gezien": "2026-11-28T01:05:19.905811+01:00",
+      "laatst_gezien": "2026-11-28T01:09:12.685891+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -213,6 +181,11 @@
       "afgemeld": "2026-11-27T22:40:22.478405+01:00",
       "eerst_gezien": "2026-11-27T21:55:17.028740+01:00",
       "laatst_gezien": "2026-11-27T22:25:16.266660+01:00"
+    },
+    "6069544": {
+      "afgemeld": "2026-11-28T01:09:12.685891+01:00",
+      "eerst_gezien": "2026-11-27T23:15:24.886586+01:00",
+      "laatst_gezien": "2026-11-28T00:55:15.772145+01:00"
     },
     "6069545": {
       "afgemeld": "2026-11-28T00:55:15.772145+01:00",
