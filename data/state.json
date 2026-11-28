@@ -22,7 +22,7 @@
         "verwachting": "Dit duurt tot ongeveer 15:00 uur."
       },
       "laatst_geplaatst": "2026-11-28T13:30:33.734522+01:00",
-      "laatst_gezien": "2026-11-28T13:50:21.147646+01:00",
+      "laatst_gezien": "2026-11-28T13:55:16.568156+01:00",
       "opgelost": false,
       "reden": "label Arriva",
       "regio": "Limburg",
@@ -57,7 +57,7 @@
         "verwachting": ""
       },
       "laatst_gewijzigd": "2026-11-25T11:05:17.531694+01:00",
-      "laatst_gezien": "2026-11-28T13:50:21.147646+01:00",
+      "laatst_gezien": "2026-11-28T13:55:16.568156+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -90,7 +90,7 @@
         "vervangend_vervoer": "",
         "verwachting": ""
       },
-      "laatst_gezien": "2026-11-28T13:50:21.147646+01:00",
+      "laatst_gezien": "2026-11-28T13:55:16.568156+01:00",
       "link": "https://www.ns.nl/reisplanner/#/",
       "opgelost": false,
       "reden": "calamiteit (wordt altijd gemeld)",
@@ -113,11 +113,6 @@
       "eerst_gezien": "2026-11-27T09:15:25.323683+01:00",
       "laatst_gezien": "2026-11-28T00:00:41.595181+01:00"
     },
-    "6069521": {
-      "afgemeld": "2026-11-27T13:50:26.897076+01:00",
-      "eerst_gezien": "2026-11-27T11:05:17.371598+01:00",
-      "laatst_gezien": "2026-11-27T13:40:27.010033+01:00"
-    },
     "6069525": {
       "afgemeld": "2026-11-28T05:15:22.690948+01:00",
       "eerst_gezien": "2026-11-27T11:25:24.673249+01:00",
@@ -127,11 +122,6 @@
       "afgemeld": "2026-11-27T14:05:18.226343+01:00",
       "eerst_gezien": "2026-11-27T12:00:44.499856+01:00",
       "laatst_gezien": "2026-11-27T13:50:26.897076+01:00"
-    },
-    "6069528": {
-      "afgemeld": "2026-11-27T13:50:26.897076+01:00",
-      "eerst_gezien": "2026-11-27T12:00:44.499856+01:00",
-      "laatst_gezien": "2026-11-27T13:40:27.010033+01:00"
     },
     "6069529": {
       "afgemeld": "2026-11-27T15:30:35.576966+01:00",
